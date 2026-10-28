@@ -6,13 +6,13 @@ import {config} from '../src/config.ts';
 const products=JSON.parse(readFileSync(new URL('../src/data/products.json',import.meta.url),'utf8'));
 const prices=JSON.parse(readFileSync(new URL('../src/data/prices.json',import.meta.url),'utf8'));
 const retail=JSON.parse(readFileSync(new URL('../src/data/retail-prices.json',import.meta.url),'utf8'));
-const modal=products.find(p=>p.id==='modal-viscose'),gradasi=products.find(p=>p.id==='viscose-gradasi'),pending=products.find(p=>p.id==='mukena-rayon-viscose');
+const modal=products.find(p=>p.id==='modal-viscose'),gradasi=products.find(p=>p.id==='viscose-gradasi'),pending=products.find(p=>p.id==='hampers-soft-box');
 const line=(p,n=1,v=p.variants[0].id)=>({productId:p.id,variantId:v,quantity:n});
 test('all supplied selling prices override retail and no product is duplicated',()=>{
- assert.equal(Object.keys(prices).length,config.key==='roona'?21:12);
+ assert.equal(Object.keys(prices).length,config.key==='roona'?22:12);
  for(const [id,price] of Object.entries(prices)){const p=products.find(p=>p.id===id);assert.ok(p,id);assert.equal(p.retailPrice,price,id);}
  assert.equal(new Set(products.map(p=>p.id)).size,products.length);assert.equal(new Set(products.map(p=>p.slug)).size,products.length);
- assert.equal(products.length,config.key==='roona'?27:26);
+ assert.equal(products.length,config.key==='roona'?24:26);
  assert.equal(products.find(p=>p.id==='paris-japan').retailPrice,config.key==='roona'?49000:48000);
  assert.equal(products.find(p=>p.id==='gana-instan').retailPrice,config.key==='roona'?49000:56000);
 });
@@ -25,7 +25,7 @@ test('every product follows brand price, verified Ecer, then inquiry in that ord
  for(const p of products){const expected=prices[p.id]??retail[p.id]??null;assert.equal(p.retailPrice,expected,p.id);assert.equal(p.pricingSource,prices[p.id]!==undefined?'brand':retail[p.id]!==undefined?'retail':'unresolved',p.id);}
  assert.equal(products.find(p=>p.id==='armani-lasercut').retailPrice,279000);
  assert.equal(products.find(p=>p.id==='armani-panel-printing').retailPrice,config.key==='roona'?345000:349000);
- assert.equal(products.filter(p=>p.retailPrice===null).length,config.key==='roona'?4:6);
+ assert.equal(products.filter(p=>p.retailPrice===null).length,config.key==='roona'?1:6);
 });
 test('each photographed variant has a real asset and responsive derivatives',()=>{
  for(const p of products){assert.equal(p.pricingStatus,p.retailPrice===null?'inquiry':'verified');assert.equal(p.availabilityStatus,'confirm');assert.ok(p.retailPrice===null||Number.isSafeInteger(p.retailPrice)&&p.retailPrice>0);
@@ -56,3 +56,12 @@ test('WhatsApp contains exact selected colors, quantities, totals and encoded no
 });
 test('empty cart cannot produce a checkout message',()=>assert.throws(()=>orderMessage([],products),/kosong/));
 test('storage and order destinations are isolated per brand',()=>{assert.ok(config.storageKey.startsWith(config.key+'-'));assert.ok(config.favoritesKey.startsWith(config.key+'-'));assert.match(config.whatsapp,/^62\d+$/);});
+
+test('October client revision removes sold-out collections and updates current cart prices',()=>{
+ const retired=['mukena-segenggam-lily','mukena-armani','mukena-rayon-viscose'];
+ for(const id of retired) assert.equal(products.find(p=>p.id===id),undefined);
+ assert.deepEqual(cleanCart(retired.map(productId=>({productId,variantId:'any',quantity:1})),products),[]);
+ assert.equal(gradasi.retailPrice,69000);
+ assert.equal(cartSummary([line(gradasi,2)],products).subtotal,138000);
+ assert.match(orderMessage([line(gradasi,2)],products),/138\.000/);
+});

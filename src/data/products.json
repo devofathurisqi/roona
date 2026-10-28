@@ -35,7 +35,7 @@
     "name": "Viscose Gradasi",
     "category": "Pashmina",
     "material": "Modal Viscose",
-    "retailPrice": 99000,
+    "retailPrice": 69000,
     "pricingStatus": "verified",
     "description": "Dua nuansa dalam satu pashmina. Jelajahi 12 perpaduan warna Gradasi, dari Blushy Rose hingga Pearl Black, untuk cerita gaya yang berbeda.",
     "measurements": null,
@@ -132,7 +132,7 @@
     "colorFamily": "Pink",
     "featured": true,
     "availabilityStatus": "confirm",
-    "pricingSource": "retail"
+    "pricingSource": "brand"
   },
   {
     "id": "paris-legend",
@@ -659,34 +659,6 @@
     "pricingSource": "brand"
   },
   {
-    "id": "mukena-armani",
-    "slug": "mukena-armani",
-    "name": "Mukena Armani Velvet",
-    "category": "Mukena",
-    "material": "Armani Velvet",
-    "retailPrice": null,
-    "pricingStatus": "inquiry",
-    "description": "Koleksi mukena Armani dari seri Velvet. Harga sesuai seri dan pilihan warna dikonfirmasi bersama admin sebelum pembayaran.",
-    "measurements": null,
-    "images": [
-      "armani.webp"
-    ],
-    "variants": [
-      {
-        "id": "velvet-vol-2",
-        "name": "Velvet Vol. 2 · sesuai foto",
-        "hex": "#cd969d",
-        "image": "armani.webp",
-        "family": "Pink"
-      }
-    ],
-    "colorFamily": "Pink",
-    "featured": false,
-    "availabilityStatus": "confirm",
-    "contain": true,
-    "pricingSource": "unresolved"
-  },
-  {
     "id": "mukena-segenggam-polos",
     "slug": "mukena-segenggam-polos",
     "name": "Mukena Segenggam Polos",
@@ -713,62 +685,6 @@
     "availabilityStatus": "confirm",
     "contain": true,
     "pricingSource": "brand"
-  },
-  {
-    "id": "mukena-segenggam-lily",
-    "slug": "mukena-segenggam-lily",
-    "name": "Mukena Segenggam Lily",
-    "category": "Mukena",
-    "material": "New Solite",
-    "retailPrice": null,
-    "pricingStatus": "inquiry",
-    "description": "Motif bunga dari Lily Series. Harga dan pilihan motif mukena segenggam ini dikonfirmasi bersama admin sebelum pembayaran.",
-    "measurements": null,
-    "images": [
-      "segenggam-lily.webp"
-    ],
-    "variants": [
-      {
-        "id": "lily-series",
-        "name": "Lily Series · konfirmasi motif",
-        "hex": "#aaa4b6",
-        "image": "segenggam-lily.webp",
-        "family": "Motif"
-      }
-    ],
-    "colorFamily": "Motif",
-    "featured": false,
-    "availabilityStatus": "confirm",
-    "contain": true,
-    "pricingSource": "unresolved"
-  },
-  {
-    "id": "mukena-rayon-viscose",
-    "slug": "mukena-rayon-viscose",
-    "name": "Mukena Rayon Viscose",
-    "category": "Mukena",
-    "material": "Rayon Viscose",
-    "retailPrice": null,
-    "pricingStatus": "inquiry",
-    "description": "Koleksi mukena Rayon Viscose bermotif. Pilih koleksi ini untuk pesananmu, lalu konfirmasikan warna, harga, dan ketersediaan bersama admin.",
-    "measurements": null,
-    "images": [
-      "rayon.webp"
-    ],
-    "variants": [
-      {
-        "id": "sesuai-foto",
-        "name": "Motif · sesuai foto",
-        "hex": "#673140",
-        "image": "rayon.webp",
-        "family": "Motif"
-      }
-    ],
-    "colorFamily": "Motif",
-    "featured": false,
-    "availabilityStatus": "confirm",
-    "contain": true,
-    "pricingSource": "unresolved"
   },
   {
     "id": "hampers-soft-box",
