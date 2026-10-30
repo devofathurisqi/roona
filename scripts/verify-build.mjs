@@ -11,7 +11,15 @@ for(const route of routes){
  if(!html.includes(config.brand))throw new Error('Missing brand: '+route);
  for(const m of html.matchAll(/(?:src|href)="(\/[^"?#]*)[^"\s]*"/g))assets.add(decodeURIComponent(m[1]));
  for(const m of html.matchAll(/srcSet="([^"]+)"/gi))for(const item of m[1].split(','))assets.add(item.trim().split(' ')[0]);
- if(route.startsWith('/produk/')&&!html.includes('"@type":"Product"'))throw new Error('Missing product schema: '+route);
+ if(route.startsWith('/produk/')){
+  if(!html.includes('"@type":"Product"'))throw new Error('Missing product schema: '+route);
+  const product=products.find(p=>route==='/produk/'+p.slug);
+  const selector=html.match(/<select id="variant-select"[^>]*>([\s\S]*?)<\/select>/)?.[1];
+  if(product.variants.length){
+   if(!selector||(selector.match(/<option\b/g)||[]).length!==product.variants.length)throw new Error('Incomplete variant selector: '+route);
+   for(const variant of product.variants)if(!selector.includes(`value="${variant.id}"`))throw new Error('Missing variant: '+product.id+' / '+variant.id);
+  }else if(selector)throw new Error('Unexpected variant selector: '+route);
+ }
 }
 for(const asset of assets){const dest=path.join('dist',asset);try{await access(dest);}catch{try{await access(path.join(dest,'index.html'));}catch{throw new Error('Missing asset or route: '+asset);}}}
 async function audit(dir){for(const ent of await readdir(dir,{withFileTypes:true})){const file=path.join(dir,ent.name);if(ent.isDirectory())await audit(file);else{if(/\.(pdf|env)$/i.test(file))throw new Error('Private document in public build: '+file);if(/\.(js|json|html)$/i.test(file)){const text=await readFile(file,'utf8');if(/"(?:costPrice|internalCost|wholesalePrice|margin)"\s*:/.test(text))throw new Error('Private pricing field: '+file);}}}}

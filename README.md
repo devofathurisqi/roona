@@ -6,6 +6,10 @@ VuyamaLabs builds independent online catalogs for the Vuyama reseller community.
 
 Viscose Gradasi is **Rp69,000**. Mukena Segenggam Lily, Mukena Armani Velvet, and Mukena Rayon Viscose were removed because the client confirmed no stock. The current catalog has **24 entries**. Old persisted cart and favorite entries for removed products are discarded by the existing catalog validation. Removed product routes resolve to the collection-not-found screen and are excluded from the prerender and sitemap.
 
+## Color revision — 30 October 2026
+
+The sixteen requested collections now expose **452 named color/motif choices**, including newly checked Drive charts for Airtech, Gana, Hayla, Lea, and Zea. See [the color audit](catalog/COLOR-AUDIT.md), [source mappings](catalog/color-coverage.json), and [revision notes](docs/REVISION-2026-10-30.md). Model photos and full charts remain accessible after switching shades. Existing saved variants retain their original labels and quantities.
+
 ## Production workflow
 
 Repository: `https://github.com/devofathurisqi/roona.git`. The production branch is `prod`. Run `npm test` and `npm run build` before committing and pushing to `origin prod`. Push triggers the repository's existing hosting integration; independently verify deployment when claiming a live release. Never force-push or change another brand's repository.

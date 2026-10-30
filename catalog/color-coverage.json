@@ -1,0 +1,5199 @@
+{
+  "auditedAt": "2026-10-30",
+  "sourceRoot": "https://drive.google.com/drive/folders/1RwtruDL86PYi3TVqILmxrZgZ_XGT1zPv",
+  "baseAudit": "Sugar Shawl supplier-photo audit, 25–26 October 2026",
+  "policy": "Authentic supplier photos and labelled color charts only. Every named color is selectable. No recoloring. Stock remains seller-confirmed. Retired mukena are not imported. ROONA pricing, branding and contacts are preserved.",
+  "products": {
+    "modal-viscose": {
+      "count": 33,
+      "colors": [
+        "Coffee Latte",
+        "Mahogany",
+        "Beige",
+        "Dusty",
+        "Iron",
+        "White",
+        "Jeans",
+        "Almond Beige",
+        "Soft Lilac",
+        "Machiato",
+        "Powder Pink",
+        "Sand",
+        "Dark Oat",
+        "Fossil",
+        "Butter Yellow",
+        "Royal Pink",
+        "Deep Almond",
+        "Deep Charcoal",
+        "Rose Quartz",
+        "Coffee",
+        "Wine",
+        "Flint",
+        "Silver",
+        "Dark Latte",
+        "Black",
+        "Maroon",
+        "Charcoal",
+        "Grey",
+        "Navy",
+        "Storm",
+        "Choco",
+        "Dark Beige",
+        "Vanilla"
+      ],
+      "evidence": [
+        {
+          "id": "coffee-latte",
+          "name": "Coffee Latte",
+          "sourceFileId": "1TprzbjBGzRLY4y6gAoDK8ZYlJaeZpwzn",
+          "contain": true
+        },
+        {
+          "id": "mahogany",
+          "name": "Mahogany",
+          "sourceFileId": "19iagppyfrFaiUCztRCNIEyhvp0fga470",
+          "contain": true
+        },
+        {
+          "id": "beige",
+          "name": "Beige",
+          "sourceFileId": "1-ReP6n4ScX4Sr8i50Obmb3jlCbfK7LO8",
+          "contain": true
+        },
+        {
+          "id": "dusty",
+          "name": "Dusty",
+          "sourceFileId": "1uQy9g1sdukp4bolzcNTKTZP_Yz3V7Fdv",
+          "contain": true
+        },
+        {
+          "id": "iron",
+          "name": "Iron",
+          "sourceFileId": "194fnneJxyuHwSoBaCKxKWU974fwil7ln",
+          "contain": true
+        },
+        {
+          "id": "white",
+          "name": "White",
+          "sourceFileId": "1chLG5ZgcZKuuJJPh7Qy_SXoricviadLV",
+          "contain": true
+        },
+        {
+          "id": "jeans",
+          "name": "Jeans",
+          "sourceFileId": "1PCr1DPSEmV1vddrI44XvUK0M5sBNvkmL",
+          "contain": true
+        },
+        {
+          "id": "almond-beige",
+          "name": "Almond Beige",
+          "sourceFileId": "1x4i9VC9zq_iyTo_XnxwfVGd1T4xyUut4",
+          "contain": true
+        },
+        {
+          "id": "soft-lilac",
+          "name": "Soft Lilac",
+          "sourceFileId": "1irnehFH__W8Wn2WwZDVxGsyTEpAXhkzR",
+          "contain": true
+        },
+        {
+          "id": "machiato",
+          "name": "Machiato",
+          "sourceFileId": "1WhHlWiBwTaaL1lzafU-faQFm5hDgjylb",
+          "contain": true
+        },
+        {
+          "id": "powder-pink",
+          "name": "Powder Pink",
+          "sourceFileId": "1QNI7fdrcfX65jtlBRAHXYQ-GJjv5Wm5r",
+          "contain": true
+        },
+        {
+          "id": "sand",
+          "name": "Sand",
+          "sourceFileId": "1fCiCr2mCzhHh3FIX3Pqg069KKP2uCuf2",
+          "contain": true
+        },
+        {
+          "id": "dark-oat",
+          "name": "Dark Oat",
+          "sourceFileId": "18Sirnji-R4gNco-LaFVvph9MpcaiRtjd",
+          "contain": true
+        },
+        {
+          "id": "fossil",
+          "name": "Fossil",
+          "sourceFileId": "1sNixEp2BTuxqFoVPxXXCi3sZmuC3TNWB",
+          "contain": true
+        },
+        {
+          "id": "butter-yellow",
+          "name": "Butter Yellow",
+          "sourceFileId": "1DXXIkMaBSz5c3FonXr5rd6Tm7Bxfb9Ow",
+          "contain": true
+        },
+        {
+          "id": "royal-pink",
+          "name": "Royal Pink",
+          "sourceFileId": "1xYOE7pXVQjBvkYuhx5j9LT52j5AGEs2E",
+          "contain": true
+        },
+        {
+          "id": "deep-almond",
+          "name": "Deep Almond",
+          "sourceFileId": "1BL07CSGzQtUQw1QV3xk91aDj86X_9TD2",
+          "contain": true
+        },
+        {
+          "id": "deep-charcoal",
+          "name": "Deep Charcoal",
+          "sourceFileId": "1aseIyT-SetVSNA89JkvjANOnEwR4g1jR",
+          "contain": true
+        },
+        {
+          "id": "rose-quartz",
+          "name": "Rose Quartz",
+          "sourceFileId": "1Rh1z3uMh6KoMoUE1FWc3XMQ4NnDpwxVx",
+          "contain": true
+        },
+        {
+          "id": "coffee",
+          "name": "Coffee",
+          "sourceFileId": "1fbxOWNimc4WDWp9BeWgkF6M2dqxhOwwN",
+          "contain": true
+        },
+        {
+          "id": "wine",
+          "name": "Wine",
+          "sourceFileId": "188NSMIaf0-EDYNPLvJBcbIRHL6NLJehQ",
+          "contain": true
+        },
+        {
+          "id": "flint",
+          "name": "Flint",
+          "sourceFileId": "1unzy5ZMF5U_nccZa158FtgU5n-q_Uybr",
+          "contain": true
+        },
+        {
+          "id": "silver",
+          "name": "Silver",
+          "sourceFileId": "179pptnb1VTn6BcdcAMuFefAqOtfnEGug",
+          "contain": true
+        },
+        {
+          "id": "dark-latte",
+          "name": "Dark Latte",
+          "sourceFileId": "13NeVkFyvivSv5Bqi07g9k3ZM675ZmEPt",
+          "contain": true
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1kH7HR94x0nfxYuAEfn7GjqY26oQ4uTEq",
+          "contain": true
+        },
+        {
+          "id": "maroon",
+          "name": "Maroon",
+          "sourceFileId": "1suRwzDXwwQPLDaGyUqe_c3XOLLtbjVah",
+          "contain": true
+        },
+        {
+          "id": "charcoal",
+          "name": "Charcoal",
+          "sourceFileId": "1ic9d8WWRRU1LMnAigCdcrzk2ruyc8ldG",
+          "contain": true
+        },
+        {
+          "id": "grey",
+          "name": "Grey",
+          "sourceFileId": "1VwyWpiAhF8QisdHrU4pUG7r5OimAC7Aw",
+          "contain": true
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "sourceFileId": "1bcY7Uej8ndZUipUS7oSniw0D096qWujT",
+          "contain": true
+        },
+        {
+          "id": "storm",
+          "name": "Storm",
+          "sourceFileId": "1aLN0KsgAqXLkgg_lLDmGxrstzmFKRbw0",
+          "contain": true
+        },
+        {
+          "id": "choco",
+          "name": "Choco",
+          "sourceFileId": "1xbwvhmNACgoI_o13B43j-owo36JIbijW",
+          "contain": true
+        },
+        {
+          "id": "dark-beige",
+          "name": "Dark Beige",
+          "sourceFileId": "1BYwSqSRaFEcBE3vgo7jphRQI-iCjW0Mb",
+          "contain": true
+        },
+        {
+          "id": "vanilla",
+          "name": "Vanilla",
+          "sourceFileId": "1O-WGSzSQY2ycuEC_UXHi774FZGmUsSiu",
+          "contain": true,
+          "reference": true
+        }
+      ],
+      "notes": [
+        "Rechecked against the labelled Drive chart uploaded on 2026-09-09. Chart-only shades use the full authentic reference with its printed names."
+      ],
+      "latestChart": "1O-WGSzSQY2ycuEC_UXHi774FZGmUsSiu"
+    },
+    "airtech-ultrasoft": {
+      "count": 24,
+      "colors": [
+        "Black",
+        "Dark Navy",
+        "Dark Espreso",
+        "Hazel",
+        "Latte",
+        "Flint",
+        "Orchid",
+        "Pink Nude",
+        "Navy",
+        "Midnight",
+        "Iron",
+        "Misty Grey",
+        "Ash",
+        "Mahogany",
+        "Brownie",
+        "Frappe",
+        "Almond Tea",
+        "Sheer Blue",
+        "Khaki",
+        "Biscuit",
+        "Charcoal",
+        "Dusty",
+        "Nude",
+        "Vanila"
+      ],
+      "evidence": [
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+          "contain": true,
+          "crop": [
+            0.16,
+            0.33,
+            0.48,
+            0.44
+          ]
+        },
+        {
+          "id": "dark-navy",
+          "name": "Dark Navy",
+          "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+          "contain": true,
+          "crop": [
+            0.16,
+            0.45,
+            0.48,
+            0.56
+          ]
+        },
+        {
+          "id": "dark-espreso",
+          "name": "Dark Espreso",
+          "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+          "contain": true,
+          "crop": [
+            0.16,
+            0.5700000000000001,
+            0.48,
+            0.6799999999999999
+          ]
+        },
+        {
+          "id": "hazel",
+          "name": "Hazel",
+          "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+          "contain": true,
+          "crop": [
+            0.16,
+            0.69,
+            0.48,
+            0.8
+          ]
+        },
+        {
+          "id": "latte",
+          "name": "Latte",
+          "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+          "contain": true,
+          "crop": [
+            0.51,
+            0.33,
+            0.83,
+            0.44
+          ]
+        },
+        {
+          "id": "flint",
+          "name": "Flint",
+          "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+          "contain": true,
+          "crop": [
+            0.51,
+            0.45,
+            0.83,
+            0.56
+          ]
+        },
+        {
+          "id": "orchid",
+          "name": "Orchid",
+          "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+          "contain": true,
+          "crop": [
+            0.51,
+            0.5700000000000001,
+            0.83,
+            0.6799999999999999
+          ]
+        },
+        {
+          "id": "pink-nude",
+          "name": "Pink Nude",
+          "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+          "contain": true,
+          "crop": [
+            0.51,
+            0.69,
+            0.83,
+            0.8
+          ]
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "midnight",
+          "name": "Midnight",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "iron",
+          "name": "Iron",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "misty-grey",
+          "name": "Misty Grey",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ash",
+          "name": "Ash",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "mahogany",
+          "name": "Mahogany",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "brownie",
+          "name": "Brownie",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "frappe",
+          "name": "Frappe",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "almond-tea",
+          "name": "Almond Tea",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "sheer-blue",
+          "name": "Sheer Blue",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "khaki",
+          "name": "Khaki",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "biscuit",
+          "name": "Biscuit",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "charcoal",
+          "name": "Charcoal",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "dusty",
+          "name": "Dusty",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "nude",
+          "name": "Nude",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "vanila",
+          "name": "Vanila",
+          "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+          "contain": true,
+          "reference": true
+        }
+      ],
+      "notes": [
+        "Rechecked against the labelled Drive chart uploaded on 2026-10-26. Chart-only shades use the full authentic reference with its printed names."
+      ],
+      "latestChart": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV"
+    },
+    "printed-viscose": {
+      "count": 30,
+      "colors": [
+        "PPV-A1",
+        "PPV-A2",
+        "PPV-A3",
+        "PPV-A4",
+        "PPV-B1",
+        "PPV-B2",
+        "PPV-B3",
+        "PPV-C1",
+        "PPV-C2",
+        "PPV-C3",
+        "PPV-C4",
+        "PPV-D1",
+        "PPV-D2",
+        "PPV-D3",
+        "PPV-D4",
+        "PPV-E1",
+        "PPV-E2",
+        "PPV-E3",
+        "Cloudy — Pinky Malt",
+        "Cloudy — Midnight",
+        "Cloudy — Choco Malt",
+        "Cloudy — Blue Sky",
+        "Stormy — Sephia",
+        "Stormy — Flint",
+        "Stormy — Irish",
+        "Stormy — Scarlett",
+        "Windy — Sunset",
+        "Windy — Sunrise",
+        "Windy — Umber Black",
+        "Windy — Cherry Oak"
+      ],
+      "evidence": [
+        {
+          "id": "cloudy-pinky-malt",
+          "name": "Cloudy — Pinky Malt",
+          "sourceFileId": "1TEX5aOJ3EuD_9gBMbMVEQhND3sISzHyc",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "cloudy-midnight",
+          "name": "Cloudy — Midnight",
+          "sourceFileId": "1TEX5aOJ3EuD_9gBMbMVEQhND3sISzHyc",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "cloudy-choco-malt",
+          "name": "Cloudy — Choco Malt",
+          "sourceFileId": "1TEX5aOJ3EuD_9gBMbMVEQhND3sISzHyc",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "cloudy-blue-sky",
+          "name": "Cloudy — Blue Sky",
+          "sourceFileId": "1TEX5aOJ3EuD_9gBMbMVEQhND3sISzHyc",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "stormy-sephia",
+          "name": "Stormy — Sephia",
+          "sourceFileId": "18k0lu1taJPYbI-vQc1Sf0HRxW4uPN4aM",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "stormy-flint",
+          "name": "Stormy — Flint",
+          "sourceFileId": "18k0lu1taJPYbI-vQc1Sf0HRxW4uPN4aM",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "stormy-irish",
+          "name": "Stormy — Irish",
+          "sourceFileId": "18k0lu1taJPYbI-vQc1Sf0HRxW4uPN4aM",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "stormy-scarlett",
+          "name": "Stormy — Scarlett",
+          "sourceFileId": "18k0lu1taJPYbI-vQc1Sf0HRxW4uPN4aM",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "windy-sunset",
+          "name": "Windy — Sunset",
+          "sourceFileId": "1h_gs1ti3BKnX92q0yviQ5Yz7ltZ5eHQc",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "windy-sunrise",
+          "name": "Windy — Sunrise",
+          "sourceFileId": "1h_gs1ti3BKnX92q0yviQ5Yz7ltZ5eHQc",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "windy-umber-black",
+          "name": "Windy — Umber Black",
+          "sourceFileId": "1h_gs1ti3BKnX92q0yviQ5Yz7ltZ5eHQc",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "windy-cherry-oak",
+          "name": "Windy — Cherry Oak",
+          "sourceFileId": "1h_gs1ti3BKnX92q0yviQ5Yz7ltZ5eHQc",
+          "contain": true,
+          "reference": true
+        }
+      ],
+      "notes": []
+    },
+    "bamboo-spandex": {
+      "count": 21,
+      "colors": [
+        "Creamy Latte",
+        "Blush",
+        "Maroon",
+        "Oat",
+        "Vanilla",
+        "Butter Cream",
+        "Storm",
+        "Smoke",
+        "Milo",
+        "Grey",
+        "Frappe",
+        "Navy",
+        "Dark Milo",
+        "Black",
+        "Deep Beige",
+        "Tea Rose",
+        "Earth",
+        "Creamy Rose",
+        "Ash",
+        "Mahogany",
+        "Roasted"
+      ],
+      "evidence": [
+        {
+          "id": "creamy-latte",
+          "name": "Creamy Latte",
+          "sourceFileId": "1hCUd-0v6L305kZxhn8GSWQN2un9QIhnZ",
+          "contain": true
+        },
+        {
+          "id": "blush",
+          "name": "Blush",
+          "sourceFileId": "1gdYpiDPPkCb761mmkLXcqPlYouf_7fk3",
+          "contain": true
+        },
+        {
+          "id": "maroon",
+          "name": "Maroon",
+          "sourceFileId": "1LIFmai9Bz_6LqSN8zsFscnAYSnROsNKG",
+          "contain": true
+        },
+        {
+          "id": "oat",
+          "name": "Oat",
+          "sourceFileId": "1Cpg00M54t9bgbiIBMWxEaqYndjSh0tfF",
+          "contain": true
+        },
+        {
+          "id": "vanilla",
+          "name": "Vanilla",
+          "sourceFileId": "1Dcb2ba6OuJiTGVQ-SlGO8Oo3n2LlP5BV",
+          "contain": true
+        },
+        {
+          "id": "butter-cream",
+          "name": "Butter Cream",
+          "sourceFileId": "1UPQGchzxLwOpT3-WyanKelcN9FQWPJiB",
+          "contain": true
+        },
+        {
+          "id": "storm",
+          "name": "Storm",
+          "sourceFileId": "1l5x67G2NJMvH9MzjjZiRS-mZWk-RWtSZ",
+          "contain": true
+        },
+        {
+          "id": "smoke",
+          "name": "Smoke",
+          "sourceFileId": "1LqCFG5gnJNWK84ZPreXvhFVHSZpYH7Jw",
+          "contain": true
+        },
+        {
+          "id": "milo",
+          "name": "Milo",
+          "sourceFileId": "1utFklKgFq47dSR_AR5knUWMt5V3gJQwJ",
+          "contain": true
+        },
+        {
+          "id": "grey",
+          "name": "Grey",
+          "sourceFileId": "1p1su7xJdHDZ_OavtjRxkdjkF6uWoJqcq",
+          "contain": true
+        },
+        {
+          "id": "frappe",
+          "name": "Frappe",
+          "sourceFileId": "11kEIOAdDvjTi_-IgNeraNlvlgNfxFU6v",
+          "contain": true
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "sourceFileId": "1mI3g0_YBcyS5z1nzwQgs2gbHc-7g77x2",
+          "contain": true
+        },
+        {
+          "id": "dark-milo",
+          "name": "Dark Milo",
+          "sourceFileId": "1L4l_WRTPzwgqy7G3DvYia2amSbJY8o-Z",
+          "contain": true
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1ASge4wLmSk4dFlDtK58msD0B6jP3eD5p",
+          "contain": true
+        },
+        {
+          "id": "deep-beige",
+          "name": "Deep Beige",
+          "sourceFileId": "1gGkFJvC3tRxXZtwKY862BYZKtsM98Vsy",
+          "contain": true
+        },
+        {
+          "id": "tea-rose",
+          "name": "Tea Rose",
+          "sourceFileId": "1ZGhg1VqFWlfL5xRpoXnq5iZ8UQAWf8Bn",
+          "contain": true
+        },
+        {
+          "id": "earth",
+          "name": "Earth",
+          "sourceFileId": "1j6u_S0c759Zn-p24Et89JK1b64jwp_ix",
+          "contain": true
+        },
+        {
+          "id": "creamy-rose",
+          "name": "Creamy Rose",
+          "sourceFileId": "1x-ILZtF4t0QB7dLZHCY3ryE4eR-g-smy",
+          "contain": true
+        },
+        {
+          "id": "ash",
+          "name": "Ash",
+          "sourceFileId": "1qPJ8TtV8jzqEPkNihXRebpBIMZk9K3UF",
+          "contain": true
+        },
+        {
+          "id": "mahogany",
+          "name": "Mahogany",
+          "sourceFileId": "1ex2Odna_76pIcrA79LlI_kCH1EehuX9G",
+          "contain": true
+        },
+        {
+          "id": "roasted",
+          "name": "Roasted",
+          "sourceFileId": "19_oy-5e4b2CMgBU_jj6T3EJGEbRizLQQ",
+          "contain": true,
+          "reference": true
+        }
+      ],
+      "notes": [
+        "Rechecked against the labelled Drive chart uploaded on 2026-09-09. Chart-only shades use the full authentic reference with its printed names."
+      ],
+      "latestChart": "19_oy-5e4b2CMgBU_jj6T3EJGEbRizLQQ"
+    },
+    "viscose-highlight": {
+      "count": 14,
+      "colors": [
+        "Charcoal Black",
+        "Wine",
+        "Saddle Brown",
+        "Deep Iron",
+        "Granola",
+        "Walnut",
+        "Cham Bridge Oak",
+        "Denim",
+        "Roasted Choco",
+        "Dark Latte",
+        "Oat",
+        "Pearl",
+        "Ivory",
+        "Butter Yellow"
+      ],
+      "evidence": [
+        {
+          "id": "charcoal-black",
+          "name": "Charcoal Black",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.07,
+            0.315,
+            0.34,
+            0.4
+          ]
+        },
+        {
+          "id": "wine",
+          "name": "Wine",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.07,
+            0.405,
+            0.34,
+            0.49000000000000005
+          ]
+        },
+        {
+          "id": "saddle-brown",
+          "name": "Saddle Brown",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.07,
+            0.49,
+            0.34,
+            0.575
+          ]
+        },
+        {
+          "id": "deep-iron",
+          "name": "Deep Iron",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.07,
+            0.58,
+            0.34,
+            0.6649999999999999
+          ]
+        },
+        {
+          "id": "granola",
+          "name": "Granola",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.07,
+            0.67,
+            0.34,
+            0.755
+          ]
+        },
+        {
+          "id": "walnut",
+          "name": "Walnut",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.355,
+            0.315,
+            0.625,
+            0.4
+          ]
+        },
+        {
+          "id": "cham-bridge-oak",
+          "name": "Cham Bridge Oak",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.355,
+            0.405,
+            0.625,
+            0.49000000000000005
+          ]
+        },
+        {
+          "id": "denim",
+          "name": "Denim",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.355,
+            0.49,
+            0.625,
+            0.575
+          ]
+        },
+        {
+          "id": "roasted-choco",
+          "name": "Roasted Choco",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.355,
+            0.58,
+            0.625,
+            0.6649999999999999
+          ]
+        },
+        {
+          "id": "dark-latte",
+          "name": "Dark Latte",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.355,
+            0.67,
+            0.625,
+            0.755
+          ]
+        },
+        {
+          "id": "oat",
+          "name": "Oat",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.6399999999999999,
+            0.315,
+            0.9099999999999999,
+            0.4
+          ]
+        },
+        {
+          "id": "pearl",
+          "name": "Pearl",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.6399999999999999,
+            0.42,
+            0.9099999999999999,
+            0.505
+          ]
+        },
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.6399999999999999,
+            0.525,
+            0.9099999999999999,
+            0.61
+          ]
+        },
+        {
+          "id": "butter-yellow",
+          "name": "Butter Yellow",
+          "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+          "contain": true,
+          "crop": [
+            0.6399999999999999,
+            0.63,
+            0.9099999999999999,
+            0.715
+          ]
+        }
+      ],
+      "notes": [
+        "Rechecked against the labelled Drive chart uploaded on 2026-09-09. Chart-only shades use the full authentic reference with its printed names."
+      ],
+      "latestChart": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk"
+    },
+    "paris-legend": {
+      "count": 65,
+      "colors": [
+        "Mustard",
+        "Dark Latte",
+        "Butter Cream",
+        "Choco",
+        "Beet Red",
+        "Dusty",
+        "Baby Pink",
+        "Dusky Rose",
+        "Vanilla",
+        "Abalone",
+        "Latte",
+        "Electric Blue",
+        "Maroon",
+        "Milk Tea",
+        "Midnight",
+        "Flint",
+        "Olive",
+        "Red",
+        "Sage",
+        "Sand",
+        "Pink Powder",
+        "Tan",
+        "Tea Flower",
+        "Soft Pink",
+        "White",
+        "Waffle",
+        "Almond Beige",
+        "Alice Blue",
+        "British Army",
+        "Beige",
+        "Brownie",
+        "Butter Yellow",
+        "Coffee",
+        "Charcoal",
+        "Ash",
+        "Lilac",
+        "Black",
+        "Dark Navy",
+        "Deep Denim",
+        "Dim Grey",
+        "Heather",
+        "Fresh Emerald",
+        "Ivory",
+        "Jeans",
+        "Kale",
+        "Lilac Grey",
+        "Mint",
+        "Dark Coffee",
+        "Navy",
+        "Nude",
+        "Pine",
+        "Misty Grey",
+        "Silver",
+        "Storm",
+        "Red Cherry",
+        "Wine",
+        "Taro",
+        "Burgundy",
+        "Blush",
+        "Almond",
+        "Pink Salt",
+        "Espreso",
+        "Khaki",
+        "Biscuit",
+        "Fossil"
+      ],
+      "evidence": [
+        {
+          "id": "mustard",
+          "name": "Mustard",
+          "sourceFileId": "12URB-o9Jbd0i9CHfXqwaZizH-ooyWRn3",
+          "contain": true
+        },
+        {
+          "id": "dark-latte",
+          "name": "Dark Latte",
+          "sourceFileId": "1GSpcxas6zHgarvFqFBQxP-X5oHrBWPv_",
+          "contain": true
+        },
+        {
+          "id": "butter-cream",
+          "name": "Butter Cream",
+          "sourceFileId": "1Bi-gS1dIKIP58pQt0ixt6d2k8eqjWtPG",
+          "contain": true
+        },
+        {
+          "id": "choco",
+          "name": "Choco",
+          "sourceFileId": "1j9sKPFJGn36hFw5YoAMlXLmMjTy_Hf9-",
+          "contain": true
+        },
+        {
+          "id": "beet-red",
+          "name": "Beet Red",
+          "sourceFileId": "1183v9bf8UkdcFzp57YEpB28v-xoZv53z",
+          "contain": true
+        },
+        {
+          "id": "dusty",
+          "name": "Dusty",
+          "sourceFileId": "12r5rj5Na_o3G3Bbflii-VFs2mmx9-8Sq",
+          "contain": true
+        },
+        {
+          "id": "baby-pink",
+          "name": "Baby Pink",
+          "sourceFileId": "1AqKfq0aRmV2vMbOXNnW2a8oj2zoNaJ8W",
+          "contain": true
+        },
+        {
+          "id": "dusky-rose",
+          "name": "Dusky Rose",
+          "sourceFileId": "1nqLkjkQrxIgQybaT1Whfdm2dh7FuclGn",
+          "contain": true
+        },
+        {
+          "id": "vanilla",
+          "name": "Vanilla",
+          "sourceFileId": "1G51oOFT5pDsPgApr3ek1SG9yfFzJnSPv",
+          "contain": true
+        },
+        {
+          "id": "abalone",
+          "name": "Abalone",
+          "sourceFileId": "1uc20OpVp6ubnUf6UpOw3r_WwdUfQTWFN",
+          "contain": true
+        },
+        {
+          "id": "latte",
+          "name": "Latte",
+          "sourceFileId": "1Ef2gmFGt0rkhmNqIax8JoPAntUY00lnp",
+          "contain": true
+        },
+        {
+          "id": "electric-blue",
+          "name": "Electric Blue",
+          "sourceFileId": "1T2jnBH1K8lIayrF0PWI4rpTqZ4BgXClV",
+          "contain": true
+        },
+        {
+          "id": "maroon",
+          "name": "Maroon",
+          "sourceFileId": "137mAWuqhBa3oeriaIbqRxi9sfZzed9FR",
+          "contain": true
+        },
+        {
+          "id": "milk-tea",
+          "name": "Milk Tea",
+          "sourceFileId": "1c-ed6J09ZUHbzyt-aRZYRQk--1G0oMqh",
+          "contain": true
+        },
+        {
+          "id": "midnight",
+          "name": "Midnight",
+          "sourceFileId": "1X72PiwHfjZ-w9StR5uD2hqnUwceEC4hL",
+          "contain": true
+        },
+        {
+          "id": "flint",
+          "name": "Flint",
+          "sourceFileId": "1G5kcipRtgddvYi-_TZIXn41ghAwYt5hi",
+          "contain": true
+        },
+        {
+          "id": "olive",
+          "name": "Olive",
+          "sourceFileId": "1lOHvX1bMgqrSy5i2T7M5REPMdNWtLu8v",
+          "contain": true
+        },
+        {
+          "id": "red",
+          "name": "Red",
+          "sourceFileId": "14p5-ybfSFMSjqWSV58Scb_WjBeJRVUHj",
+          "contain": true
+        },
+        {
+          "id": "sage",
+          "name": "Sage",
+          "sourceFileId": "1b9gpWLCJjJ65p-ilWNu9co4xEmUAESm8",
+          "contain": true
+        },
+        {
+          "id": "sand",
+          "name": "Sand",
+          "sourceFileId": "105GEeHRKgHeNkUPJfuP5RvtwuarpetOb",
+          "contain": true
+        },
+        {
+          "id": "pink-powder",
+          "name": "Pink Powder",
+          "sourceFileId": "1jSvFtqGId7DCPW4dZhzLS3WQQX411HzZ",
+          "contain": true
+        },
+        {
+          "id": "tan",
+          "name": "Tan",
+          "sourceFileId": "1seHnGzvi1Zkw-U5gjOp7weuMcudbGCHY",
+          "contain": true
+        },
+        {
+          "id": "tea-flower",
+          "name": "Tea Flower",
+          "sourceFileId": "1uMq4O6p4TPCMfI5AqMM1y6gS8zD8ao-A",
+          "contain": true
+        },
+        {
+          "id": "soft-pink",
+          "name": "Soft Pink",
+          "sourceFileId": "1bUSe9xJoUrkvjNhfm2vTvxUHWx2NcDFl",
+          "contain": true
+        },
+        {
+          "id": "white",
+          "name": "White",
+          "sourceFileId": "1FNMHDzl1_Gn8tVCJmVtEsbryhLpoqIqf",
+          "contain": true
+        },
+        {
+          "id": "waffle",
+          "name": "Waffle",
+          "sourceFileId": "1kbGz4vntvbZOzTJbITg5DDyCX4llbX9m",
+          "contain": true
+        },
+        {
+          "id": "almond-beige",
+          "name": "Almond Beige",
+          "sourceFileId": "1qIPTzV70DnEzp9Xc75LPj3DxeBZcMWMZ",
+          "contain": true
+        },
+        {
+          "id": "alice-blue",
+          "name": "Alice Blue",
+          "sourceFileId": "1dSTa5jAMCJsyyXqgGUQF-wfGONPvI4jo",
+          "contain": true
+        },
+        {
+          "id": "british-army",
+          "name": "British Army",
+          "sourceFileId": "1XKvNDNLnSFchOlZc6AUTZe3WEfUVZ3SA",
+          "contain": true
+        },
+        {
+          "id": "beige",
+          "name": "Beige",
+          "sourceFileId": "1K4IRS-baKFpaU5GM1_8QBk2q3T6XC0ou",
+          "contain": true
+        },
+        {
+          "id": "brownie",
+          "name": "Brownie",
+          "sourceFileId": "1nN7PWBQyMkp67SUSflno_y6MQENrf4VF",
+          "contain": true
+        },
+        {
+          "id": "butter-yellow",
+          "name": "Butter Yellow",
+          "sourceFileId": "1poj-RiNJM8WLsn9BLI1hpA1zU3Af6PIu",
+          "contain": true
+        },
+        {
+          "id": "coffee",
+          "name": "Coffee",
+          "sourceFileId": "1X7t6DSgp0KQYSbAKcZuB3dcjfDI23XAN",
+          "contain": true
+        },
+        {
+          "id": "charcoal",
+          "name": "Charcoal",
+          "sourceFileId": "1UoCURQrwzsG2QeUVFgKLJ-_01Sg0sV6Z",
+          "contain": true
+        },
+        {
+          "id": "ash",
+          "name": "Ash",
+          "sourceFileId": "16moupGWhzPSBe3OrgLULLiyPNB8kheK0",
+          "contain": true
+        },
+        {
+          "id": "lilac",
+          "name": "Lilac",
+          "sourceFileId": "16OI1DqEh87XV8vrp17tyo3bQmozY4ZoG",
+          "contain": true
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1yAazLFR62xaVLppBby8ashVKi7BVpUHK",
+          "contain": true
+        },
+        {
+          "id": "dark-navy",
+          "name": "Dark Navy",
+          "sourceFileId": "1DSujAFqI5sb8ssR78uQ5MWDEhJ9VtmFa",
+          "contain": true
+        },
+        {
+          "id": "deep-denim",
+          "name": "Deep Denim",
+          "sourceFileId": "10Vrmm8L1PAs_gw2At89U0zLdDM4_3LAP",
+          "contain": true
+        },
+        {
+          "id": "dim-grey",
+          "name": "Dim Grey",
+          "sourceFileId": "1JJzQsJ7PLECA_gq_bUSmxOJMpa7OQ241",
+          "contain": true
+        },
+        {
+          "id": "heather",
+          "name": "Heather",
+          "sourceFileId": "1Mw5H5yIGAovE6KwgsdfXL_tkAd7FHBV6",
+          "contain": true
+        },
+        {
+          "id": "fresh-emerald",
+          "name": "Fresh Emerald",
+          "sourceFileId": "1uaotn1q2JhnJzFHNU98A1UHr_4qEk4Vm",
+          "contain": true
+        },
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "sourceFileId": "11pZnPciEpezI6VzK-YDV-mfgizE_PVQM",
+          "contain": true
+        },
+        {
+          "id": "jeans",
+          "name": "Jeans",
+          "sourceFileId": "1e_6RLP57XQY6tiaK3srSYbPXmpsAf_Q4",
+          "contain": true
+        },
+        {
+          "id": "kale",
+          "name": "Kale",
+          "sourceFileId": "1xSIcduN6ubTN62CaFDkA5Jodm7Y6urw1",
+          "contain": true
+        },
+        {
+          "id": "lilac-grey",
+          "name": "Lilac Grey",
+          "sourceFileId": "1qmgDABwOIea8ypQySPYHkVvIbxCkVvjL",
+          "contain": true
+        },
+        {
+          "id": "mint",
+          "name": "Mint",
+          "sourceFileId": "10HJG9pvkN1uaVJSUMLThZk_VPc25yttI",
+          "contain": true
+        },
+        {
+          "id": "dark-coffee",
+          "name": "Dark Coffee",
+          "sourceFileId": "12RUHlggllzE8iYrbZKc8VppZ3SjPrvoc",
+          "contain": true
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "sourceFileId": "1mvpunLW17zlaovVo5UOAcXbhm58MOM0f",
+          "contain": true
+        },
+        {
+          "id": "nude",
+          "name": "Nude",
+          "sourceFileId": "1t6MBQPvHToNgfLw9KpDM8CxxBVcugZAl",
+          "contain": true
+        },
+        {
+          "id": "pine",
+          "name": "Pine",
+          "sourceFileId": "1IK6QajkZOqaJKY5DBUEhNIYOMkfwCE-g",
+          "contain": true
+        },
+        {
+          "id": "misty-grey",
+          "name": "Misty Grey",
+          "sourceFileId": "1i4EU6FEzKUlOP7183a3853eGXw9XO2X3",
+          "contain": true
+        },
+        {
+          "id": "silver",
+          "name": "Silver",
+          "sourceFileId": "1Hk3XZiB45FuNxLj6lpHVwG1zky2JX-Pg",
+          "contain": true
+        },
+        {
+          "id": "storm",
+          "name": "Storm",
+          "sourceFileId": "1IXQWiKQzveMXzQNVQwTE1dS9DOi5Xbo9",
+          "contain": true
+        },
+        {
+          "id": "red-cherry",
+          "name": "Red Cherry",
+          "sourceFileId": "1FNXZ4YDwOzAtVSQjvTLVW5uLMKU99r1g",
+          "contain": true
+        },
+        {
+          "id": "wine",
+          "name": "Wine",
+          "sourceFileId": "1Il6X177Iq_klcI98fw_StRbg40hcOg4x",
+          "contain": true
+        },
+        {
+          "id": "taro",
+          "name": "Taro",
+          "sourceFileId": "1CNN-ojmmk-rWraznoxnv7kh2HiVGCxmk",
+          "contain": true
+        },
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "sourceFileId": "1XRGgH_UWTcr8gKL0rYZCAgOhKR2a8xdY",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "blush",
+          "name": "Blush",
+          "sourceFileId": "1XRGgH_UWTcr8gKL0rYZCAgOhKR2a8xdY",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "almond",
+          "name": "Almond",
+          "sourceFileId": "1XRGgH_UWTcr8gKL0rYZCAgOhKR2a8xdY",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "pink-salt",
+          "name": "Pink Salt",
+          "sourceFileId": "1XRGgH_UWTcr8gKL0rYZCAgOhKR2a8xdY",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "espreso",
+          "name": "Espreso",
+          "sourceFileId": "1XRGgH_UWTcr8gKL0rYZCAgOhKR2a8xdY",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "khaki",
+          "name": "Khaki",
+          "sourceFileId": "1XRGgH_UWTcr8gKL0rYZCAgOhKR2a8xdY",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "biscuit",
+          "name": "Biscuit",
+          "sourceFileId": "1XRGgH_UWTcr8gKL0rYZCAgOhKR2a8xdY",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "fossil",
+          "name": "Fossil",
+          "sourceFileId": "17AVddBgzFAwkmlj3JviMTSDFailTRqMN",
+          "contain": true
+        }
+      ],
+      "notes": []
+    },
+    "motif-tryspan": {
+      "count": 82,
+      "colors": [
+        "Independence Day — ID-001",
+        "Independence Day — ID-002",
+        "Independence Day — ID-003",
+        "Independence Day — ID-004",
+        "Antique Garden — Silver Moon",
+        "Antique Garden — Midnight Bloom",
+        "Antique Garden — Bronze Marble",
+        "Antique Garden — Desert Dust",
+        "Antique Garden — Black Lace",
+        "Nebula — Mocca Swirl",
+        "Nebula — Taupe Cloud",
+        "Nebula — Rose Mist",
+        "Nebula — Galaxy",
+        "Nebula — Peach Galaxy",
+        "Dandelion Dream — Blush Petal",
+        "Dandelion Dream — Lavender Haze",
+        "Dandelion Dream — Grey Mauve",
+        "Dandelion Dream — Lilac Sky",
+        "Dandelion Dream — Greige Bloom",
+        "Ethnic Clover — Cream",
+        "Ethnic Clover — Teal",
+        "Ethnic Clover — Maroon",
+        "Ethnic Clover — Black",
+        "Cielo Basic — Pink",
+        "Cielo Basic — Hijau",
+        "Cielo Basic — Abu-abu",
+        "Cielo Basic — Hitam",
+        "Iliya — Black",
+        "Iliya — Sage",
+        "Iliya — Ash Coffee",
+        "Iliya — Cream Choco",
+        "Iliya — Tosca",
+        "Zaina / Tania — Green",
+        "Zaina / Tania — Blue",
+        "Zaina / Tania — Cerise",
+        "Zaina / Tania — Pastel Pink",
+        "Zaina / Tania — Violet",
+        "Primrose — Cokelat tua",
+        "Primrose — Mauve",
+        "Primrose — Krem",
+        "Primrose — Putih pink",
+        "Ethnic — Greenish Brown",
+        "Ethnic — Biscuit",
+        "Ethnic — Dark Truffle",
+        "Ethnic — Black",
+        "Ethnic — Wood",
+        "June — Wine",
+        "June — Grey Mauve",
+        "June — Pink",
+        "June — Sage",
+        "June — Broken White",
+        "Eve — Aqua Blue",
+        "Eve — Tosca",
+        "Eve — Orange Rush",
+        "Eve — Plum",
+        "Eve — Broken White",
+        "Daisy — Wine",
+        "Daisy — Coral Mauve",
+        "Daisy — Amethyst",
+        "Daisy — Black",
+        "Daisy — Lilac Grey",
+        "Classic Malay — Broken White",
+        "Classic Malay — Blush",
+        "Classic Malay — Pink",
+        "Classic Malay — Navy",
+        "Classic Malay — Black",
+        "Ula — Lavender",
+        "Ula — Coral",
+        "Ula — Lemon",
+        "Ula — Tosca",
+        "Ula — Blue",
+        "Makkah — Pink",
+        "Kamila — Navy",
+        "Kamila — Ash Denim",
+        "Kamila — Ivory",
+        "Kamila — Peach",
+        "Kamila — Magenta",
+        "Alesha — Fuschia",
+        "Alesha — Peachy",
+        "Alesha — Fresh Pink",
+        "Alesha — Grey",
+        "Alesha — Lavender"
+      ],
+      "evidence": [
+        {
+          "id": "independence-day-id-001",
+          "name": "Independence Day — ID-001",
+          "sourceFileId": "1jdggu7rZ_g_vRpRHzYDHCMluR64uTJ-C",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "independence-day-id-002",
+          "name": "Independence Day — ID-002",
+          "sourceFileId": "1jdggu7rZ_g_vRpRHzYDHCMluR64uTJ-C",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "independence-day-id-003",
+          "name": "Independence Day — ID-003",
+          "sourceFileId": "1jdggu7rZ_g_vRpRHzYDHCMluR64uTJ-C",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "independence-day-id-004",
+          "name": "Independence Day — ID-004",
+          "sourceFileId": "1jdggu7rZ_g_vRpRHzYDHCMluR64uTJ-C",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "antique-garden-silver-moon",
+          "name": "Antique Garden — Silver Moon",
+          "sourceFileId": "1KxSIt-arTjF1jiQodFcEq1Df6EvPCp9N",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "antique-garden-midnight-bloom",
+          "name": "Antique Garden — Midnight Bloom",
+          "sourceFileId": "1KxSIt-arTjF1jiQodFcEq1Df6EvPCp9N",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "antique-garden-bronze-marble",
+          "name": "Antique Garden — Bronze Marble",
+          "sourceFileId": "1KxSIt-arTjF1jiQodFcEq1Df6EvPCp9N",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "antique-garden-desert-dust",
+          "name": "Antique Garden — Desert Dust",
+          "sourceFileId": "1KxSIt-arTjF1jiQodFcEq1Df6EvPCp9N",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "antique-garden-black-lace",
+          "name": "Antique Garden — Black Lace",
+          "sourceFileId": "1KxSIt-arTjF1jiQodFcEq1Df6EvPCp9N",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "nebula-mocca-swirl",
+          "name": "Nebula — Mocca Swirl",
+          "sourceFileId": "1sXe9z6KuSOQLzcLFUSZF63dXNborp6ek",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "nebula-taupe-cloud",
+          "name": "Nebula — Taupe Cloud",
+          "sourceFileId": "1sXe9z6KuSOQLzcLFUSZF63dXNborp6ek",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "nebula-rose-mist",
+          "name": "Nebula — Rose Mist",
+          "sourceFileId": "1sXe9z6KuSOQLzcLFUSZF63dXNborp6ek",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "nebula-galaxy",
+          "name": "Nebula — Galaxy",
+          "sourceFileId": "1sXe9z6KuSOQLzcLFUSZF63dXNborp6ek",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "nebula-peach-galaxy",
+          "name": "Nebula — Peach Galaxy",
+          "sourceFileId": "1sXe9z6KuSOQLzcLFUSZF63dXNborp6ek",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "dandelion-dream-blush-petal",
+          "name": "Dandelion Dream — Blush Petal",
+          "sourceFileId": "1aF7iLThfdBhQV4vKgv2Pu54DMLrUHgAR",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "dandelion-dream-lavender-haze",
+          "name": "Dandelion Dream — Lavender Haze",
+          "sourceFileId": "1aF7iLThfdBhQV4vKgv2Pu54DMLrUHgAR",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "dandelion-dream-grey-mauve",
+          "name": "Dandelion Dream — Grey Mauve",
+          "sourceFileId": "1aF7iLThfdBhQV4vKgv2Pu54DMLrUHgAR",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "dandelion-dream-lilac-sky",
+          "name": "Dandelion Dream — Lilac Sky",
+          "sourceFileId": "1aF7iLThfdBhQV4vKgv2Pu54DMLrUHgAR",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "dandelion-dream-greige-bloom",
+          "name": "Dandelion Dream — Greige Bloom",
+          "sourceFileId": "1aF7iLThfdBhQV4vKgv2Pu54DMLrUHgAR",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ethnic-clover-cream",
+          "name": "Ethnic Clover — Cream",
+          "sourceFileId": "1SJBBiUxUDLzW_wq7Dcskax1ANDQQie2T",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ethnic-clover-teal",
+          "name": "Ethnic Clover — Teal",
+          "sourceFileId": "1SJBBiUxUDLzW_wq7Dcskax1ANDQQie2T",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ethnic-clover-maroon",
+          "name": "Ethnic Clover — Maroon",
+          "sourceFileId": "1SJBBiUxUDLzW_wq7Dcskax1ANDQQie2T",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ethnic-clover-black",
+          "name": "Ethnic Clover — Black",
+          "sourceFileId": "1SJBBiUxUDLzW_wq7Dcskax1ANDQQie2T",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "cielo-basic-pink",
+          "name": "Cielo Basic — Pink",
+          "sourceFileId": "1pSkC-aYZR2F1ebSSCSs5iLoVK7_tUzDR",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "cielo-basic-hijau",
+          "name": "Cielo Basic — Hijau",
+          "sourceFileId": "1pSkC-aYZR2F1ebSSCSs5iLoVK7_tUzDR",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "cielo-basic-abu-abu",
+          "name": "Cielo Basic — Abu-abu",
+          "sourceFileId": "1pSkC-aYZR2F1ebSSCSs5iLoVK7_tUzDR",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "cielo-basic-hitam",
+          "name": "Cielo Basic — Hitam",
+          "sourceFileId": "1pSkC-aYZR2F1ebSSCSs5iLoVK7_tUzDR",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "iliya-black",
+          "name": "Iliya — Black",
+          "sourceFileId": "1eva5UC4I0gZ4JexqIvRpK02iEJ0_oZvv",
+          "contain": true
+        },
+        {
+          "id": "iliya-sage",
+          "name": "Iliya — Sage",
+          "sourceFileId": "1y2qXC3Q4BRXm1zMGxejAYEJaVSFh1fGV",
+          "contain": true
+        },
+        {
+          "id": "iliya-ash-coffee",
+          "name": "Iliya — Ash Coffee",
+          "sourceFileId": "1PxPFi2WqT7maHARVVg14gdp1X_Hix4nZ",
+          "contain": true
+        },
+        {
+          "id": "iliya-cream-choco",
+          "name": "Iliya — Cream Choco",
+          "sourceFileId": "1MZpz3QJP3BisNruDJoMw4JgvK5DOIZmr",
+          "contain": true
+        },
+        {
+          "id": "iliya-tosca",
+          "name": "Iliya — Tosca",
+          "sourceFileId": "17P5jSm2L20i_-k_HmgCoxGSmde7ijShg",
+          "contain": true
+        },
+        {
+          "id": "zaina-tania-green",
+          "name": "Zaina / Tania — Green",
+          "sourceFileId": "131AhpmO0pOET7u_vyu5pD-wrUkx1NH-l",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "zaina-tania-blue",
+          "name": "Zaina / Tania — Blue",
+          "sourceFileId": "131AhpmO0pOET7u_vyu5pD-wrUkx1NH-l",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "zaina-tania-cerise",
+          "name": "Zaina / Tania — Cerise",
+          "sourceFileId": "131AhpmO0pOET7u_vyu5pD-wrUkx1NH-l",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "zaina-tania-pastel-pink",
+          "name": "Zaina / Tania — Pastel Pink",
+          "sourceFileId": "131AhpmO0pOET7u_vyu5pD-wrUkx1NH-l",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "zaina-tania-violet",
+          "name": "Zaina / Tania — Violet",
+          "sourceFileId": "131AhpmO0pOET7u_vyu5pD-wrUkx1NH-l",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "primrose-cokelat-tua",
+          "name": "Primrose — Cokelat tua",
+          "sourceFileId": "1MZGbRTjPA_3bRt5p5HW9D-cJw4ysClum",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "primrose-mauve",
+          "name": "Primrose — Mauve",
+          "sourceFileId": "1MZGbRTjPA_3bRt5p5HW9D-cJw4ysClum",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "primrose-krem",
+          "name": "Primrose — Krem",
+          "sourceFileId": "1MZGbRTjPA_3bRt5p5HW9D-cJw4ysClum",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "primrose-putih-pink",
+          "name": "Primrose — Putih pink",
+          "sourceFileId": "1MZGbRTjPA_3bRt5p5HW9D-cJw4ysClum",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ethnic-greenish-brown",
+          "name": "Ethnic — Greenish Brown",
+          "sourceFileId": "1wGFlxmJ_W4NqXlkkfZfjNR5CU6xEC2Nm",
+          "contain": true
+        },
+        {
+          "id": "ethnic-biscuit",
+          "name": "Ethnic — Biscuit",
+          "sourceFileId": "1XaK0wJUFYm8OJ2v7lbXFXLa3E0ZyaUH7",
+          "contain": true
+        },
+        {
+          "id": "ethnic-dark-truffle",
+          "name": "Ethnic — Dark Truffle",
+          "sourceFileId": "1tKoHPA8HO6LstzxqjBzniMWwkcvNxnNM",
+          "contain": true
+        },
+        {
+          "id": "ethnic-black",
+          "name": "Ethnic — Black",
+          "sourceFileId": "137ImUMdeQJmKIHbDHfrJXCTNVbpGYDLy",
+          "contain": true
+        },
+        {
+          "id": "ethnic-wood",
+          "name": "Ethnic — Wood",
+          "sourceFileId": "1igRVhdk7rS5LNiUOML1K0TTe1echniEf",
+          "contain": true
+        },
+        {
+          "id": "june-wine",
+          "name": "June — Wine",
+          "sourceFileId": "1t6yeskYZETMZMZwHbyoWB0Wot8DI1r_O",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "june-grey-mauve",
+          "name": "June — Grey Mauve",
+          "sourceFileId": "1t6yeskYZETMZMZwHbyoWB0Wot8DI1r_O",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "june-pink",
+          "name": "June — Pink",
+          "sourceFileId": "1t6yeskYZETMZMZwHbyoWB0Wot8DI1r_O",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "june-sage",
+          "name": "June — Sage",
+          "sourceFileId": "1t6yeskYZETMZMZwHbyoWB0Wot8DI1r_O",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "june-broken-white",
+          "name": "June — Broken White",
+          "sourceFileId": "1t6yeskYZETMZMZwHbyoWB0Wot8DI1r_O",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "eve-aqua-blue",
+          "name": "Eve — Aqua Blue",
+          "sourceFileId": "1m1ZeRNafaLxQ-izp_IeaKYVyidBKlF64",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "eve-tosca",
+          "name": "Eve — Tosca",
+          "sourceFileId": "1m1ZeRNafaLxQ-izp_IeaKYVyidBKlF64",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "eve-orange-rush",
+          "name": "Eve — Orange Rush",
+          "sourceFileId": "1m1ZeRNafaLxQ-izp_IeaKYVyidBKlF64",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "eve-plum",
+          "name": "Eve — Plum",
+          "sourceFileId": "1m1ZeRNafaLxQ-izp_IeaKYVyidBKlF64",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "eve-broken-white",
+          "name": "Eve — Broken White",
+          "sourceFileId": "1m1ZeRNafaLxQ-izp_IeaKYVyidBKlF64",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "daisy-wine",
+          "name": "Daisy — Wine",
+          "sourceFileId": "1hIvtpH-FAqfalx1PCyDrzAZBfBNdytLu",
+          "contain": true
+        },
+        {
+          "id": "daisy-coral-mauve",
+          "name": "Daisy — Coral Mauve",
+          "sourceFileId": "1G8KfTAAQaYypZIulqzEVWOQ0UyC0LocX",
+          "contain": true
+        },
+        {
+          "id": "daisy-amethyst",
+          "name": "Daisy — Amethyst",
+          "sourceFileId": "1_rB7sv4mxh65buFVuoMtJ0ljHts6X-Mk",
+          "contain": true
+        },
+        {
+          "id": "daisy-black",
+          "name": "Daisy — Black",
+          "sourceFileId": "1qr96dZs0ykiCmmTF0LL8G8iXfxP92Hiu",
+          "contain": true
+        },
+        {
+          "id": "daisy-lilac-grey",
+          "name": "Daisy — Lilac Grey",
+          "sourceFileId": "1hOdoWqqf3kv-e4wNB5e7Kdr0DlUmJkNH",
+          "contain": true
+        },
+        {
+          "id": "classic-malay-broken-white",
+          "name": "Classic Malay — Broken White",
+          "sourceFileId": "1ZSDM2mM5OB_SKqBQYp9DIaJt4G-iaXie",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "classic-malay-blush",
+          "name": "Classic Malay — Blush",
+          "sourceFileId": "1ZSDM2mM5OB_SKqBQYp9DIaJt4G-iaXie",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "classic-malay-pink",
+          "name": "Classic Malay — Pink",
+          "sourceFileId": "1ZSDM2mM5OB_SKqBQYp9DIaJt4G-iaXie",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "classic-malay-navy",
+          "name": "Classic Malay — Navy",
+          "sourceFileId": "1ZSDM2mM5OB_SKqBQYp9DIaJt4G-iaXie",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "classic-malay-black",
+          "name": "Classic Malay — Black",
+          "sourceFileId": "1ZSDM2mM5OB_SKqBQYp9DIaJt4G-iaXie",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ula-lavender",
+          "name": "Ula — Lavender",
+          "sourceFileId": "1c1e8pEEGPTsJw_o6i8YmV0pOgGMgzsfb",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ula-coral",
+          "name": "Ula — Coral",
+          "sourceFileId": "1c1e8pEEGPTsJw_o6i8YmV0pOgGMgzsfb",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ula-lemon",
+          "name": "Ula — Lemon",
+          "sourceFileId": "1c1e8pEEGPTsJw_o6i8YmV0pOgGMgzsfb",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ula-tosca",
+          "name": "Ula — Tosca",
+          "sourceFileId": "1c1e8pEEGPTsJw_o6i8YmV0pOgGMgzsfb",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ula-blue",
+          "name": "Ula — Blue",
+          "sourceFileId": "1c1e8pEEGPTsJw_o6i8YmV0pOgGMgzsfb",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "makkah-pink",
+          "name": "Makkah — Pink",
+          "sourceFileId": "1gZbP08iJSu8OGqJJJCT7lT13BXg-eBnc",
+          "contain": true
+        },
+        {
+          "id": "kamila-navy",
+          "name": "Kamila — Navy",
+          "sourceFileId": "1oac73YHAEB_YFSNhVHANRBudtBYKwJ-P",
+          "contain": true,
+          "reference": false
+        },
+        {
+          "id": "kamila-ash-denim",
+          "name": "Kamila — Ash Denim",
+          "sourceFileId": "13arROG7CdApuyYpeFCzUzBGK1b2HDX9l",
+          "contain": true,
+          "reference": false
+        },
+        {
+          "id": "kamila-ivory",
+          "name": "Kamila — Ivory",
+          "sourceFileId": "1-NkQAA2Ah3Ylxsk-tkrr-8QohC_TJcwX",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "kamila-peach",
+          "name": "Kamila — Peach",
+          "sourceFileId": "1-NkQAA2Ah3Ylxsk-tkrr-8QohC_TJcwX",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "kamila-magenta",
+          "name": "Kamila — Magenta",
+          "sourceFileId": "1VHhax8HZ5Eo-1e-e2Ks5lHL1BLa_j4ga",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "alesha-fuschia",
+          "name": "Alesha — Fuschia",
+          "sourceFileId": "1VHhax8HZ5Eo-1e-e2Ks5lHL1BLa_j4ga",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "alesha-peachy",
+          "name": "Alesha — Peachy",
+          "sourceFileId": "1GNCZ2iIfMWim2cyNAzxMoSYXp8DCVgUO",
+          "contain": true,
+          "reference": false
+        },
+        {
+          "id": "alesha-fresh-pink",
+          "name": "Alesha — Fresh Pink",
+          "sourceFileId": "1UGfsKKahGQ-3W1VJhlYhU2ifZWqPzXtH",
+          "contain": true,
+          "reference": false
+        },
+        {
+          "id": "alesha-grey",
+          "name": "Alesha — Grey",
+          "sourceFileId": "1hlc6O4HT2DAFND9ULsyedfp-vp3S0rHd",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "alesha-lavender",
+          "name": "Alesha — Lavender",
+          "sourceFileId": "1hlc6O4HT2DAFND9ULsyedfp-vp3S0rHd",
+          "contain": true,
+          "reference": true
+        }
+      ],
+      "notes": [
+        "All active July and older series color posters reviewed. SOLD folders excluded. Primrose and Cielo use descriptive visible-color names because the sources do not supply shade names. Zaina/Tania source alias retained. Misfiled Makkah Pink identified by its printed title."
+      ]
+    },
+    "paris-japan": {
+      "count": 21,
+      "colors": [
+        "Tender Stem",
+        "White",
+        "Biscuit",
+        "Granola",
+        "Sheer Blue",
+        "Brownie",
+        "Butter Cream",
+        "Black",
+        "Dim Grey",
+        "Navy",
+        "Powder Pink",
+        "Olive Branch",
+        "Fresh Milo",
+        "Burgundy",
+        "Almond Beige",
+        "Creamy Beige",
+        "Lavender",
+        "Silver Pine",
+        "Ash",
+        "Deep Almond",
+        "Charcoal"
+      ],
+      "evidence": [
+        {
+          "id": "tender-stem",
+          "name": "Tender Stem",
+          "sourceFileId": "1sOuSoUbCWa_U0vMiPqLRPh8BEEHLDLKN",
+          "contain": true
+        },
+        {
+          "id": "white",
+          "name": "White",
+          "sourceFileId": "1zn4c5LP87CP3DgQSPnPgA8I6yd5G1YQW",
+          "contain": true
+        },
+        {
+          "id": "biscuit",
+          "name": "Biscuit",
+          "sourceFileId": "10-1e4cJZtqE59iqs-V7-CfG3xYLADNBn",
+          "contain": true
+        },
+        {
+          "id": "granola",
+          "name": "Granola",
+          "sourceFileId": "1Jb294roSWouKJHpK3Xg6nybIbKc2SF4I",
+          "contain": true
+        },
+        {
+          "id": "sheer-blue",
+          "name": "Sheer Blue",
+          "sourceFileId": "1T70oaU2C1XHKklD1sBeywkWORjUB8DY7",
+          "contain": true
+        },
+        {
+          "id": "brownie",
+          "name": "Brownie",
+          "sourceFileId": "1Yan3Gh5YvoERM8H8QjCeRPFsf4nxd6us",
+          "contain": true
+        },
+        {
+          "id": "butter-cream",
+          "name": "Butter Cream",
+          "sourceFileId": "1YUtHIR71CZRtUsNYhU2OBgfqOSwZCL8f",
+          "contain": true
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "13FWy3XFWZuGXdiuQW6XUUMVHoUJy2r0U",
+          "contain": true
+        },
+        {
+          "id": "dim-grey",
+          "name": "Dim Grey",
+          "sourceFileId": "1hL37uKVLADhurHVIQqSLt377VMObUUHC",
+          "contain": true
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "sourceFileId": "1ozIdx2jlUVchEFJ8a-eR9UhlZ7wZl4qW",
+          "contain": true
+        },
+        {
+          "id": "powder-pink",
+          "name": "Powder Pink",
+          "sourceFileId": "1FytB_NNQCKuUia019MCz0jfTTuz0VWk6",
+          "contain": true
+        },
+        {
+          "id": "olive-branch",
+          "name": "Olive Branch",
+          "sourceFileId": "1vuCZ3cQK-wnVaiknHOS8168COM2EVoiE",
+          "contain": true
+        },
+        {
+          "id": "fresh-milo",
+          "name": "Fresh Milo",
+          "sourceFileId": "1PAbWq1H9uR3iujOuzmE6RXj3IjPc51-1",
+          "contain": true
+        },
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "sourceFileId": "1NNdCtz0Wa1qowJbQ4yq3ZcGTenbgXvDa",
+          "contain": true
+        },
+        {
+          "id": "almond-beige",
+          "name": "Almond Beige",
+          "sourceFileId": "1NRFI2DUSpm1etgYf-5kKp2LkIq5smcjs",
+          "contain": true
+        },
+        {
+          "id": "creamy-beige",
+          "name": "Creamy Beige",
+          "sourceFileId": "1IN7kLR0p_RdGfvt98EbtCtm43tJrmu-w",
+          "contain": true
+        },
+        {
+          "id": "lavender",
+          "name": "Lavender",
+          "sourceFileId": "1sAWdocZ_rxPL1tmevp-j4oy83W5qhSf1",
+          "contain": true
+        },
+        {
+          "id": "silver-pine",
+          "name": "Silver Pine",
+          "sourceFileId": "1io22OTOWlYuA5eca9na0wNvbRK3xZ99N",
+          "contain": true
+        },
+        {
+          "id": "ash",
+          "name": "Ash",
+          "sourceFileId": "10qCdwGeZp0TWbxRP2_QefDSWj1onYNqQ",
+          "contain": true
+        },
+        {
+          "id": "deep-almond",
+          "name": "Deep Almond",
+          "sourceFileId": "15xYxQMXIYGexKgbVXVF8wmxvckf4YQg7",
+          "contain": true
+        },
+        {
+          "id": "charcoal",
+          "name": "Charcoal",
+          "sourceFileId": "1anGrXU5ujnWTdpPSTfyrQsswVk2sfChR",
+          "contain": true,
+          "crop": [
+            0.085,
+            0.445,
+            0.235,
+            0.52
+          ]
+        }
+      ],
+      "notes": [
+        "Names transcribed from the images, including Sheer Blue, Fresh Milo and Almond Beige. Charcoal is chart-only; Granola is individual-photo-only."
+      ]
+    },
+    "gana-instan": {
+      "count": 28,
+      "colors": [
+        "Biscuit",
+        "Baby Pink",
+        "Black",
+        "Mahogany",
+        "Navy",
+        "Maroon",
+        "Ash",
+        "Smoke",
+        "Dark Milo",
+        "Frappe",
+        "Hazel",
+        "Mocca",
+        "Deep Oat",
+        "Storm",
+        "Ekspreso",
+        "Creamy Beige",
+        "Earth",
+        "Beige",
+        "Vanila",
+        "Soft Apricot",
+        "Pink Nude",
+        "Nude",
+        "Butter Cream",
+        "Tea Flower",
+        "Wine",
+        "Cookie",
+        "Blue Sky",
+        "Misty Grey"
+      ],
+      "evidence": [
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.09933333333333333,
+            0.48083333333333333,
+            0.22733333333333333,
+            0.5441666666666667
+          ]
+        },
+        {
+          "id": "mahogany",
+          "name": "Mahogany",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.126,
+            0.56,
+            0.254,
+            0.6233333333333333
+          ]
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.14933333333333335,
+            0.6433333333333333,
+            0.2773333333333333,
+            0.7066666666666667
+          ]
+        },
+        {
+          "id": "maroon",
+          "name": "Maroon",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.176,
+            0.7266666666666667,
+            0.304,
+            0.79
+          ]
+        },
+        {
+          "id": "ash",
+          "name": "Ash",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.20266666666666666,
+            0.8016666666666666,
+            0.33066666666666666,
+            0.865
+          ]
+        },
+        {
+          "id": "smoke",
+          "name": "Smoke",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.22933333333333333,
+            0.885,
+            0.35733333333333334,
+            0.9483333333333334
+          ]
+        },
+        {
+          "id": "dark-milo",
+          "name": "Dark Milo",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.2826666666666667,
+            0.33916666666666667,
+            0.4106666666666667,
+            0.4025
+          ]
+        },
+        {
+          "id": "frappe",
+          "name": "Frappe",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.306,
+            0.43916666666666665,
+            0.434,
+            0.5025
+          ]
+        },
+        {
+          "id": "hazel",
+          "name": "Hazel",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.3426666666666667,
+            0.5516666666666666,
+            0.4706666666666667,
+            0.615
+          ]
+        },
+        {
+          "id": "mocca",
+          "name": "Mocca",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.36933333333333335,
+            0.66,
+            0.49733333333333335,
+            0.7233333333333334
+          ]
+        },
+        {
+          "id": "deep-oat",
+          "name": "Deep Oat",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.4026666666666667,
+            0.7641666666666667,
+            0.5306666666666666,
+            0.8275
+          ]
+        },
+        {
+          "id": "storm",
+          "name": "Storm",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.46266666666666667,
+            0.22666666666666666,
+            0.5906666666666667,
+            0.29
+          ]
+        },
+        {
+          "id": "ekspreso",
+          "name": "Ekspreso",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.49266666666666664,
+            0.31,
+            0.6206666666666667,
+            0.37333333333333335
+          ]
+        },
+        {
+          "id": "creamy-beige",
+          "name": "Creamy Beige",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.526,
+            0.385,
+            0.654,
+            0.4483333333333333
+          ]
+        },
+        {
+          "id": "earth",
+          "name": "Earth",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.556,
+            0.4725,
+            0.684,
+            0.5358333333333334
+          ]
+        },
+        {
+          "id": "beige",
+          "name": "Beige",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.586,
+            0.5558333333333333,
+            0.714,
+            0.6191666666666666
+          ]
+        },
+        {
+          "id": "vanila",
+          "name": "Vanila",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.6193333333333333,
+            0.635,
+            0.7473333333333333,
+            0.6983333333333334
+          ]
+        },
+        {
+          "id": "baby-pink",
+          "name": "Baby Pink",
+          "sourceFileId": "1u6sAnC9MQd5y_a2PtHZS5qF4u87SjGqS",
+          "contain": true,
+          "crop": null
+        },
+        {
+          "id": "soft-apricot",
+          "name": "Soft Apricot",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.696,
+            0.16,
+            0.824,
+            0.22333333333333333
+          ]
+        },
+        {
+          "id": "pink-nude",
+          "name": "Pink Nude",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.7293333333333333,
+            0.2475,
+            0.8573333333333333,
+            0.31083333333333335
+          ]
+        },
+        {
+          "id": "nude",
+          "name": "Nude",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.7593333333333333,
+            0.32666666666666666,
+            0.8873333333333333,
+            0.39
+          ]
+        },
+        {
+          "id": "butter-cream",
+          "name": "Butter Cream",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.7926666666666666,
+            0.41,
+            0.9206666666666666,
+            0.47333333333333333
+          ]
+        },
+        {
+          "id": "tea-flower",
+          "name": "Tea Flower",
+          "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+          "contain": true,
+          "crop": [
+            0.8226666666666667,
+            0.49333333333333335,
+            0.9506666666666667,
+            0.5566666666666666
+          ]
+        },
+        {
+          "id": "biscuit",
+          "name": "Biscuit",
+          "sourceFileId": "1fAKX_aIfI8tgDfvFHe3U2HWMVsYRBXUy",
+          "contain": true
+        },
+        {
+          "id": "wine",
+          "name": "Wine",
+          "sourceFileId": "1NyX63_MV2_m6PNj_9Z9PLyZDfEATFknW",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "cookie",
+          "name": "Cookie",
+          "sourceFileId": "1NyX63_MV2_m6PNj_9Z9PLyZDfEATFknW",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "blue-sky",
+          "name": "Blue Sky",
+          "sourceFileId": "1NyX63_MV2_m6PNj_9Z9PLyZDfEATFknW",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "misty-grey",
+          "name": "Misty Grey",
+          "sourceFileId": "1NyX63_MV2_m6PNj_9Z9PLyZDfEATFknW",
+          "contain": true,
+          "reference": true
+        }
+      ],
+      "notes": [
+        "Rechecked against the labelled Drive chart uploaded on 2026-10-26. Chart-only shades use the full authentic reference with its printed names.",
+        "The newer chart spells Espreso; this remains the existing Ekspreso choice to preserve its links and saved orders."
+      ],
+      "latestChart": "1NyX63_MV2_m6PNj_9Z9PLyZDfEATFknW"
+    },
+    "zoya-instan": {
+      "count": 13,
+      "colors": [
+        "Wine",
+        "Smoke",
+        "Dark Milo",
+        "Earth",
+        "Frappe",
+        "Deep Almond",
+        "Fossil",
+        "Black",
+        "Dark Latte",
+        "Brownie",
+        "Mahogany",
+        "Deep Beige",
+        "Soft Lilac"
+      ],
+      "evidence": [
+        {
+          "id": "wine",
+          "name": "Wine",
+          "sourceFileId": "1WFLbTTv43ETWXTmxeZ-hefHSFsSKdVr2",
+          "contain": true
+        },
+        {
+          "id": "smoke",
+          "name": "Smoke",
+          "sourceFileId": "1DBTUdRoJLRJfYa1m-CqA8XQOkN5uC6Pt",
+          "contain": true
+        },
+        {
+          "id": "dark-milo",
+          "name": "Dark Milo",
+          "sourceFileId": "1ayfmgPFpAtwobJoZ87kTnMYRjdMvX4Mn",
+          "contain": true
+        },
+        {
+          "id": "earth",
+          "name": "Earth",
+          "sourceFileId": "1lia_9SUp1XrjXkObsedd_EPNWRRiUIVl",
+          "contain": true
+        },
+        {
+          "id": "frappe",
+          "name": "Frappe",
+          "sourceFileId": "1a21-RdM-AxWUwgYcZH1j_fZdgePOjQdX",
+          "contain": true
+        },
+        {
+          "id": "deep-almond",
+          "name": "Deep Almond",
+          "sourceFileId": "1MSr089fsa-B6ZyJabZLQaE2rE7cRoOph",
+          "contain": true
+        },
+        {
+          "id": "fossil",
+          "name": "Fossil",
+          "sourceFileId": "19yX5l2ocKLGX11-4udYYmvQhnOEk5qXF",
+          "contain": true
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1R95GEkTp0rhmw2_-86Jttns5AGgEQFqQ",
+          "contain": true
+        },
+        {
+          "id": "dark-latte",
+          "name": "Dark Latte",
+          "sourceFileId": "1I2q90lPkmzKqlTpuWlMEWYcq2fl48PSG",
+          "contain": true
+        },
+        {
+          "id": "brownie",
+          "name": "Brownie",
+          "sourceFileId": "170kzOWYA2u0PbrsR71JH2G2u4qNfSA2C",
+          "contain": true
+        },
+        {
+          "id": "mahogany",
+          "name": "Mahogany",
+          "sourceFileId": "1mknlJBUy0MuiH6so9hMx00Pyf6COiID9",
+          "contain": true
+        },
+        {
+          "id": "deep-beige",
+          "name": "Deep Beige",
+          "sourceFileId": "1AgKcc31zVOqFhGb0mKEAThgsLRSDd_S0",
+          "contain": true
+        },
+        {
+          "id": "soft-lilac",
+          "name": "Soft Lilac",
+          "sourceFileId": "1d9jg3YJ382R2s0jWNbnfQseNYGdGB1mX",
+          "contain": true
+        }
+      ],
+      "notes": [
+        "13 named fabric colors. Repeated model/promotional images are not additional colors. Black filename and full chart identify black; single-photo label says smoke in error."
+      ]
+    },
+    "bamboo-slip-on": {
+      "count": 19,
+      "colors": [
+        "Milo",
+        "Creamy Latte",
+        "Butter Cream",
+        "Dark Milo",
+        "Smoke",
+        "Black",
+        "Navy",
+        "Mahogany",
+        "Dark Oat",
+        "Blue Sky",
+        "Ash",
+        "Cookie",
+        "Deep Beige",
+        "Frappe",
+        "Creamy Beige",
+        "Soft Apricot",
+        "Tea Flower",
+        "Misty Grey",
+        "Earth"
+      ],
+      "evidence": [
+        {
+          "id": "milo",
+          "name": "Milo",
+          "sourceFileId": "1_L6P7u-tKLhnxfVC1HJ_HPODsBV3bMRs",
+          "contain": true
+        },
+        {
+          "id": "creamy-latte",
+          "name": "Creamy Latte",
+          "sourceFileId": "1VfusgyofBOkwa7x0ff1_-n78PksP36mW",
+          "contain": true
+        },
+        {
+          "id": "butter-cream",
+          "name": "Butter Cream",
+          "sourceFileId": "1rayQqItRw5RwfvXWgwREshdF4YXmg3Fa",
+          "contain": true
+        },
+        {
+          "id": "dark-milo",
+          "name": "Dark Milo",
+          "sourceFileId": "1GVZXlnhixhsPIzAUPh5KjxN04BbUzkW1",
+          "contain": true
+        },
+        {
+          "id": "smoke",
+          "name": "Smoke",
+          "sourceFileId": "17OY9Regx-g7AZuywo19C-VC0P8p4t4ND",
+          "contain": true
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1OFIMzAT6gEsdnAFBG0PmaR2PhPr1EFJU",
+          "contain": true
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "sourceFileId": "17O4AcrmQ0NzSVSfg90wLlm90AwP6L2TO",
+          "contain": true
+        },
+        {
+          "id": "mahogany",
+          "name": "Mahogany",
+          "sourceFileId": "11yr4jB50XT5Ibgspp_UIbNkF74VooZrB",
+          "contain": true
+        },
+        {
+          "id": "dark-oat",
+          "name": "Dark Oat",
+          "sourceFileId": "1ZISa4sax82bwjw9GmjmZz8rnY2Slx1y_",
+          "contain": true
+        },
+        {
+          "id": "blue-sky",
+          "name": "Blue Sky",
+          "sourceFileId": "1qYOagaj-tZYGKrvK4pein2FZc9cugsCi",
+          "contain": true
+        },
+        {
+          "id": "ash",
+          "name": "Ash",
+          "sourceFileId": "19S0S9Xa-DTL3UFzFf3laflodnVCY_Y_s",
+          "contain": true
+        },
+        {
+          "id": "cookie",
+          "name": "Cookie",
+          "sourceFileId": "1iHBxwNQLDHGc4Ob7gs1SamzCXRsWYyk2",
+          "contain": true
+        },
+        {
+          "id": "deep-beige",
+          "name": "Deep Beige",
+          "sourceFileId": "1Yhyj0U-SDrsId8tS03AiUdR3hj_JelRs",
+          "contain": true
+        },
+        {
+          "id": "frappe",
+          "name": "Frappe",
+          "sourceFileId": "1nwyUOMyIX1BmzJieJ-cr03jd5a_33C4n",
+          "contain": true
+        },
+        {
+          "id": "creamy-beige",
+          "name": "Creamy Beige",
+          "sourceFileId": "1EZRKsi3bAUyHtNWB_1N4waF8yf2XC5Wp",
+          "contain": true
+        },
+        {
+          "id": "soft-apricot",
+          "name": "Soft Apricot",
+          "sourceFileId": "1hPaIivo_qHhwRj0dpOZbP8RFb0I_FSYh",
+          "contain": true
+        },
+        {
+          "id": "tea-flower",
+          "name": "Tea Flower",
+          "sourceFileId": "1kESZOKfKqZUETfJnC6E0AYc44TxDUj6U",
+          "contain": true
+        },
+        {
+          "id": "misty-grey",
+          "name": "Misty Grey",
+          "sourceFileId": "18GEl72yaXxCrcDuxdbCq27AFfsVwXWJR",
+          "contain": true
+        },
+        {
+          "id": "earth",
+          "name": "Earth",
+          "sourceFileId": "1Qf-O3Im0RJnBEfrw7lnkS1rzYv2FOQjU",
+          "contain": true
+        }
+      ],
+      "notes": [
+        "Rechecked against the labelled Drive chart uploaded on 2026-10-26. Chart-only shades use the full authentic reference with its printed names."
+      ],
+      "latestChart": "1ggZIUNDzWIeYWAbmYczAvx1ndA4E--Is"
+    },
+    "hawa-instan": {
+      "count": 20,
+      "colors": [
+        "Black",
+        "Tea Flower",
+        "Creamy Beige",
+        "Butter Cream",
+        "Navy",
+        "Creamy Latte",
+        "Misty Grey",
+        "Maroon",
+        "Milo",
+        "Mahogany",
+        "Deep Beige",
+        "Blue Sky",
+        "Frappe",
+        "Dark Milo",
+        "Cookie",
+        "Earth",
+        "Ash",
+        "Almond Beige",
+        "Soft Apricot",
+        "Dark Beige"
+      ],
+      "evidence": [
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1gAg4sojsB9DF6djew5W1wpPqDq2Yl_t8",
+          "contain": true
+        },
+        {
+          "id": "tea-flower",
+          "name": "Tea Flower",
+          "sourceFileId": "1jpcw76hOT4F5T2rpRBeGpN9O7VPWutRs",
+          "contain": true
+        },
+        {
+          "id": "creamy-beige",
+          "name": "Creamy Beige",
+          "sourceFileId": "1ie1MWtN116c98C9MCfeCXW4ZI0wVraya",
+          "contain": true
+        },
+        {
+          "id": "butter-cream",
+          "name": "Butter Cream",
+          "sourceFileId": "1ZsLrkuaf-65V70BveeFKS2R8gLiSC3mc",
+          "contain": true
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "sourceFileId": "1yDF5f3b3w5LB02uQpGcyr1PGR7ZDB-_9",
+          "contain": true
+        },
+        {
+          "id": "creamy-latte",
+          "name": "Creamy Latte",
+          "sourceFileId": "1a7Eir8TNjc72tXF9ax9ovNyU_JyrK-27",
+          "contain": true
+        },
+        {
+          "id": "misty-grey",
+          "name": "Misty Grey",
+          "sourceFileId": "1ghgRMhTsmBJcvFual6jP3btT1gyqFix2",
+          "contain": true
+        },
+        {
+          "id": "maroon",
+          "name": "Maroon",
+          "sourceFileId": "1A5coJijrkfYkpmvKvOQZ1op0wOslIOM7",
+          "contain": true
+        },
+        {
+          "id": "milo",
+          "name": "Milo",
+          "sourceFileId": "150iI4uTJ4u-wiHPEtfb3dYLffG4cNTYE",
+          "contain": true
+        },
+        {
+          "id": "mahogany",
+          "name": "Mahogany",
+          "sourceFileId": "1y1jkUi5G7kK8z6dxC7ARMZtr4ogBog8j",
+          "contain": true
+        },
+        {
+          "id": "deep-beige",
+          "name": "Deep Beige",
+          "sourceFileId": "1stOhWmgKnBdT5PoU22L3LTyXjMVtWh9R",
+          "contain": true
+        },
+        {
+          "id": "blue-sky",
+          "name": "Blue Sky",
+          "sourceFileId": "1jVUmTUrgbrPb2nHgciCG_Tnrbnd41SxR",
+          "contain": true
+        },
+        {
+          "id": "frappe",
+          "name": "Frappe",
+          "sourceFileId": "1HmKo30tH40AV-GmtW6u9_ojxM38zlayM",
+          "contain": true
+        },
+        {
+          "id": "dark-milo",
+          "name": "Dark Milo",
+          "sourceFileId": "10nxaMAqiuBsWy140-_i_JzRMI-7hqen3",
+          "contain": true
+        },
+        {
+          "id": "cookie",
+          "name": "Cookie",
+          "sourceFileId": "1joh-1J7ovzbjNwLgqNb5OSxLlgMmF-XK",
+          "contain": true
+        },
+        {
+          "id": "earth",
+          "name": "Earth",
+          "sourceFileId": "1S07Qm-6ysDVn2axzvtm7rNCxnaEYFza3",
+          "contain": true
+        },
+        {
+          "id": "ash",
+          "name": "Ash",
+          "sourceFileId": "1IGAVNKhJDL7TRXQZyGaJg3aXQfyXYwJS",
+          "contain": true
+        },
+        {
+          "id": "almond-beige",
+          "name": "Almond Beige",
+          "sourceFileId": "1B3-u3BYYYHzzEh6goBUBSaoXQRzjEKKc",
+          "contain": true
+        },
+        {
+          "id": "soft-apricot",
+          "name": "Soft Apricot",
+          "sourceFileId": "1FvBOJSFN-9bOv28ZqcN1mP2eLekjKxaH",
+          "contain": true
+        },
+        {
+          "id": "dark-beige",
+          "name": "Dark Beige",
+          "sourceFileId": "1SGe3Lp1omTu9vt1AA5nrkahSNXD78CRI",
+          "contain": true,
+          "crop": [
+            0.48,
+            0.445,
+            0.7,
+            0.525
+          ]
+        }
+      ],
+      "notes": [
+        "Paris Jadul Mustard is misfiled in the Hawa folder and excluded. Dark Beige occurs on the labelled color chart."
+      ]
+    },
+    "zea-sport-instan": {
+      "count": 25,
+      "colors": [
+        "Black",
+        "Mahogany",
+        "Coffee",
+        "Brownie",
+        "Navy",
+        "Midnight",
+        "Fossil",
+        "Autumn Wheat",
+        "Dark Milo",
+        "Winter Mist",
+        "Deep Charcoal",
+        "Firewood",
+        "Cookie",
+        "Sheer Blue",
+        "Tempered Blue",
+        "Almond Tea",
+        "Dusty",
+        "Baby Pink",
+        "Vanila",
+        "Flint",
+        "Earth",
+        "Steel",
+        "Beige",
+        "Creamy Latte",
+        "Light Ivory"
+      ],
+      "evidence": [
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "mahogany",
+          "name": "Mahogany",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "coffee",
+          "name": "Coffee",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "brownie",
+          "name": "Brownie",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "midnight",
+          "name": "Midnight",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "fossil",
+          "name": "Fossil",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "autumn-wheat",
+          "name": "Autumn Wheat",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "dark-milo",
+          "name": "Dark Milo",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "winter-mist",
+          "name": "Winter Mist",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "deep-charcoal",
+          "name": "Deep Charcoal",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "firewood",
+          "name": "Firewood",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "cookie",
+          "name": "Cookie",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "sheer-blue",
+          "name": "Sheer Blue",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "tempered-blue",
+          "name": "Tempered Blue",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "almond-tea",
+          "name": "Almond Tea",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "dusty",
+          "name": "Dusty",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "baby-pink",
+          "name": "Baby Pink",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "vanila",
+          "name": "Vanila",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "flint",
+          "name": "Flint",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "earth",
+          "name": "Earth",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "steel",
+          "name": "Steel",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "beige",
+          "name": "Beige",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "creamy-latte",
+          "name": "Creamy Latte",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "light-ivory",
+          "name": "Light Ivory",
+          "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+          "contain": true,
+          "reference": true
+        }
+      ],
+      "notes": [
+        "Rechecked against the labelled Drive chart uploaded on 2026-10-26. Chart-only shades use the full authentic reference with its printed names.",
+        "Earlier unnamed model-photo options remain available only for existing saved orders and deep links. Their colors are not inferred from the newer named chart."
+      ],
+      "latestChart": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n"
+    },
+    "aisha-khiban": {
+      "count": 20,
+      "colors": [
+        "Brownie",
+        "Oat",
+        "Milk Tea",
+        "Ash Powder",
+        "Biscuit",
+        "Almond Beige",
+        "Soft Lilac",
+        "Dim Grey",
+        "Cinnamon",
+        "Heather",
+        "Maroon",
+        "Blush",
+        "Flint",
+        "Storm",
+        "Black",
+        "Charcoal",
+        "Mocca Blush",
+        "Vanilla",
+        "Coffee",
+        "Palm Sugar"
+      ],
+      "evidence": [
+        {
+          "id": "brownie",
+          "name": "Brownie",
+          "sourceFileId": "16qIMhdL_BXgKoGu-S6gXBnW7789oRLXQ",
+          "contain": true
+        },
+        {
+          "id": "oat",
+          "name": "Oat",
+          "sourceFileId": "1fQQV7ir7RDPJ5rNT-iFLcgv4lfM8Ah4D",
+          "contain": true
+        },
+        {
+          "id": "milk-tea",
+          "name": "Milk Tea",
+          "sourceFileId": "1jqK9EQ6a3XzgBLuCQGeCNOHJetMezuXa",
+          "contain": true
+        },
+        {
+          "id": "ash-powder",
+          "name": "Ash Powder",
+          "sourceFileId": "1ceJKiI3MgEoXmJ3GgGiquUMVAtU8hK-Y",
+          "contain": true
+        },
+        {
+          "id": "biscuit",
+          "name": "Biscuit",
+          "sourceFileId": "1XwzJuvN1qk_QaJutkcBLrkxYgs25TVfQ",
+          "contain": true
+        },
+        {
+          "id": "almond-beige",
+          "name": "Almond Beige",
+          "sourceFileId": "1xYhQVVDVpFiLyt-I0YDZklB-32JopKtX",
+          "contain": true
+        },
+        {
+          "id": "soft-lilac",
+          "name": "Soft Lilac",
+          "sourceFileId": "1aWa4LvWyVbidubZgzocjNpOkFqsF9IYX",
+          "contain": true
+        },
+        {
+          "id": "dim-grey",
+          "name": "Dim Grey",
+          "sourceFileId": "14uDC3E4Se1eJzK3bFigpCIZiyQiQ2_Cm",
+          "contain": true
+        },
+        {
+          "id": "cinnamon",
+          "name": "Cinnamon",
+          "sourceFileId": "18b5x0qm_D6roehBaSqTXhkuTTT__-pMa",
+          "contain": true
+        },
+        {
+          "id": "heather",
+          "name": "Heather",
+          "sourceFileId": "1TPT490-21j9A_I33CqVspSStX9EK603q",
+          "contain": true
+        },
+        {
+          "id": "maroon",
+          "name": "Maroon",
+          "sourceFileId": "1U_8NI0so_iPKzBprUjsossHk5IsfPsA7",
+          "contain": true
+        },
+        {
+          "id": "blush",
+          "name": "Blush",
+          "sourceFileId": "1eGQ_AG3F-tZH0afljlT_Ba1lalqMuilr",
+          "contain": true
+        },
+        {
+          "id": "flint",
+          "name": "Flint",
+          "sourceFileId": "1gn1VZyWtOTJq3Db3ik-ooKWzL1y4c6xM",
+          "contain": true
+        },
+        {
+          "id": "storm",
+          "name": "Storm",
+          "sourceFileId": "1WvbR0Rt7O_zgLsE8-T1wr5eFGwABlRvj",
+          "contain": true
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1Xn1Us-jT3hqY6Hc7AMNcaWSvV4W4JDXY",
+          "contain": true
+        },
+        {
+          "id": "charcoal",
+          "name": "Charcoal",
+          "sourceFileId": "1PvwkW3Lz1KD_2n1noo7MC-EtvMt3dPZQ",
+          "contain": true
+        },
+        {
+          "id": "mocca-blush",
+          "name": "Mocca Blush",
+          "sourceFileId": "1a_BXZyfg-rBieUwZicDZUSd4PgjQmsLc",
+          "contain": true
+        },
+        {
+          "id": "vanilla",
+          "name": "Vanilla",
+          "sourceFileId": "1GtTglfgSzX0_HYI6F1vlD2s-xOb-1WxQ",
+          "contain": true
+        },
+        {
+          "id": "coffee",
+          "name": "Coffee",
+          "sourceFileId": "1HAzFDd8rmyzIyOZP8-QvCjVca-4ff9G1",
+          "contain": true,
+          "crop": [
+            0.05,
+            0.425,
+            0.267,
+            0.51
+          ]
+        },
+        {
+          "id": "palm-sugar",
+          "name": "Palm Sugar",
+          "sourceFileId": "1HAzFDd8rmyzIyOZP8-QvCjVca-4ff9G1",
+          "contain": true,
+          "crop": [
+            0.06,
+            0.59,
+            0.27,
+            0.67
+          ]
+        }
+      ],
+      "notes": [
+        "Rechecked against the labelled Drive chart uploaded on 2026-09-09. Chart-only shades use the full authentic reference with its printed names."
+      ],
+      "latestChart": "1MAGCgeKaJusZ9RU3DCwIUhVswuJf_y3_"
+    },
+    "hayla-khiban": {
+      "count": 27,
+      "colors": [
+        "Misty Grey",
+        "Soft Lilac",
+        "Dark Milo",
+        "Navy",
+        "Beige",
+        "Earth",
+        "Mahogany",
+        "Biscuit",
+        "Storm",
+        "Dusty",
+        "Midnight",
+        "Sand",
+        "Deep Almond",
+        "Creamy Latte",
+        "Olive",
+        "Almond Beige",
+        "Butter Cream",
+        "Nude",
+        "Black",
+        "Milo",
+        "Sheer Blue",
+        "Cookie",
+        "Smoke",
+        "Ash",
+        "Vanila",
+        "Frappe",
+        "Creamy Beige"
+      ],
+      "evidence": [
+        {
+          "id": "misty-grey",
+          "name": "Misty Grey",
+          "sourceFileId": "1YnyF_wLU_dXaen7HfZVi1OCmoyr7W4Lp",
+          "contain": true
+        },
+        {
+          "id": "soft-lilac",
+          "name": "Soft Lilac",
+          "sourceFileId": "1AnqUeMUkzYwpZcdl10s94YJguezQIP0e",
+          "contain": true
+        },
+        {
+          "id": "dark-milo",
+          "name": "Dark Milo",
+          "sourceFileId": "1xi0T8DL8PGEVNrWSbguYjbn2TvojfIbr",
+          "contain": true
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "sourceFileId": "1-up3uKrb7lL7j4WAjsgUh2Ck4-nsM4QV",
+          "contain": true
+        },
+        {
+          "id": "beige",
+          "name": "Beige",
+          "sourceFileId": "1RKnpy-TVwD3QWcIFMqabSlsJhlr0sk24",
+          "contain": true
+        },
+        {
+          "id": "earth",
+          "name": "Earth",
+          "sourceFileId": "1E7i1NSOratUvQdMY33XJeN8yaONzN-ct",
+          "contain": true
+        },
+        {
+          "id": "mahogany",
+          "name": "Mahogany",
+          "sourceFileId": "1EJFXfiyo19qKXjLnOrbkITC2_aHqmmyr",
+          "contain": true
+        },
+        {
+          "id": "biscuit",
+          "name": "Biscuit",
+          "sourceFileId": "1G0zOfckQvM95I8qiM_VoAHL0ds_-Q1Fe",
+          "contain": true
+        },
+        {
+          "id": "storm",
+          "name": "Storm",
+          "sourceFileId": "1QSdCXda-G89Tu4ysZL2TGk7xy_P31Pcf",
+          "contain": true
+        },
+        {
+          "id": "dusty",
+          "name": "Dusty",
+          "sourceFileId": "1fKpTxS7hitg2u-yC1mMuCDmWFG_qM1mu",
+          "contain": true
+        },
+        {
+          "id": "midnight",
+          "name": "Midnight",
+          "sourceFileId": "1rW8Fk7j3u5qc2IH1aVvE15a3ghAsdx2N",
+          "contain": true
+        },
+        {
+          "id": "sand",
+          "name": "Sand",
+          "sourceFileId": "1wUKGRq4P8QwGUuJZ00QXexL28gh5-OK6",
+          "contain": true
+        },
+        {
+          "id": "deep-almond",
+          "name": "Deep Almond",
+          "sourceFileId": "1W-msejcs0gM85UC_UDQw0lk-orj-UNT-",
+          "contain": true
+        },
+        {
+          "id": "creamy-latte",
+          "name": "Creamy Latte",
+          "sourceFileId": "13KMydoGRMVLzTiNpkFlzyjeZhXRO___E",
+          "contain": true
+        },
+        {
+          "id": "olive",
+          "name": "Olive",
+          "sourceFileId": "1E4S4XCccNb0OEYOYaH5MaQDw4AwaIXB3",
+          "contain": true
+        },
+        {
+          "id": "almond-beige",
+          "name": "Almond Beige",
+          "sourceFileId": "170GKD8dDjXz2NQYUGRNoS85FQktPeS3s",
+          "contain": true
+        },
+        {
+          "id": "butter-cream",
+          "name": "Butter Cream",
+          "sourceFileId": "1rDEQvVjwIW3rDD87R7sBHMM7X37Srg2y",
+          "contain": true
+        },
+        {
+          "id": "nude",
+          "name": "Nude",
+          "sourceFileId": "1372yJvCrymgOmKJOfJtHPY1oTNYYttcS",
+          "contain": true
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "milo",
+          "name": "Milo",
+          "sourceFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "sheer-blue",
+          "name": "Sheer Blue",
+          "sourceFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "cookie",
+          "name": "Cookie",
+          "sourceFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "smoke",
+          "name": "Smoke",
+          "sourceFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ash",
+          "name": "Ash",
+          "sourceFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "vanila",
+          "name": "Vanila",
+          "sourceFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "frappe",
+          "name": "Frappe",
+          "sourceFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "creamy-beige",
+          "name": "Creamy Beige",
+          "sourceFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+          "contain": true,
+          "reference": true
+        }
+      ],
+      "notes": [
+        "Rechecked against the labelled Drive chart uploaded on 2026-10-26. Chart-only shades use the full authentic reference with its printed names."
+      ],
+      "latestChart": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx"
+    },
+    "lea-oval-khiban": {
+      "count": 10,
+      "colors": [
+        "Black",
+        "Mahogany",
+        "Ash",
+        "Dark Milo",
+        "Tempered Blue",
+        "Dusty",
+        "Nude",
+        "Creamy Latte",
+        "Grey",
+        "Vanila"
+      ],
+      "evidence": [
+        {
+          "id": "black",
+          "name": "Black",
+          "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "mahogany",
+          "name": "Mahogany",
+          "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "ash",
+          "name": "Ash",
+          "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "dark-milo",
+          "name": "Dark Milo",
+          "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "tempered-blue",
+          "name": "Tempered Blue",
+          "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "dusty",
+          "name": "Dusty",
+          "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "nude",
+          "name": "Nude",
+          "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "creamy-latte",
+          "name": "Creamy Latte",
+          "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "grey",
+          "name": "Grey",
+          "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+          "contain": true,
+          "reference": true
+        },
+        {
+          "id": "vanila",
+          "name": "Vanila",
+          "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+          "contain": true,
+          "reference": true
+        }
+      ],
+      "notes": [
+        "Rechecked against the labelled Drive chart uploaded on 2026-10-26. Chart-only shades use the full authentic reference with its printed names.",
+        "Earlier unnamed model-photo options remain available only for existing saved orders and deep links. Their colors are not inferred from the newer named chart."
+      ],
+      "latestChart": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh"
+    }
+  },
+  "assets": {
+    "roona-modal-viscose-colors.webp": {
+      "sourceFileId": "1O-WGSzSQY2ycuEC_UXHi774FZGmUsSiu",
+      "crop": null
+    },
+    "roona-airtech-ultrasoft-colors.webp": {
+      "sourceFileId": "1tJT9p7Dkr-FeIY7YL5bMA6U9bwJvTkMV",
+      "crop": null
+    },
+    "roona-bamboo-spandex-colors.webp": {
+      "sourceFileId": "19_oy-5e4b2CMgBU_jj6T3EJGEbRizLQQ",
+      "crop": null
+    },
+    "roona-viscose-highlight-colors.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": null
+    },
+    "roona-gana-instan-colors.webp": {
+      "sourceFileId": "1NyX63_MV2_m6PNj_9Z9PLyZDfEATFknW",
+      "crop": null
+    },
+    "roona-bamboo-slip-on-colors.webp": {
+      "sourceFileId": "1ggZIUNDzWIeYWAbmYczAvx1ndA4E--Is",
+      "crop": null
+    },
+    "roona-zea-sport-instan-colors.webp": {
+      "sourceFileId": "1aKHsRenRRaOean43LR2SEGts0jJM_u3n",
+      "crop": null
+    },
+    "roona-aisha-khiban-colors.webp": {
+      "sourceFileId": "1MAGCgeKaJusZ9RU3DCwIUhVswuJf_y3_",
+      "crop": null
+    },
+    "roona-hayla-khiban-colors.webp": {
+      "sourceFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+      "crop": null
+    },
+    "roona-lea-oval-khiban-colors.webp": {
+      "sourceFileId": "1N0-cqATbinjyJKnwLScp9Y-T4zsdFBPh",
+      "crop": null
+    },
+    "shade-f2c13163456b27.webp": {
+      "sourceFileId": "1TprzbjBGzRLY4y6gAoDK8ZYlJaeZpwzn",
+      "crop": null
+    },
+    "shade-185c92f1bd0101.webp": {
+      "sourceFileId": "19iagppyfrFaiUCztRCNIEyhvp0fga470",
+      "crop": null
+    },
+    "shade-34276d41624829.webp": {
+      "sourceFileId": "1-ReP6n4ScX4Sr8i50Obmb3jlCbfK7LO8",
+      "crop": null
+    },
+    "shade-ffa5358156dca0.webp": {
+      "sourceFileId": "1uQy9g1sdukp4bolzcNTKTZP_Yz3V7Fdv",
+      "crop": null
+    },
+    "shade-5ad26164004fe5.webp": {
+      "sourceFileId": "194fnneJxyuHwSoBaCKxKWU974fwil7ln",
+      "crop": null
+    },
+    "shade-8f47256b1b15fc.webp": {
+      "sourceFileId": "1chLG5ZgcZKuuJJPh7Qy_SXoricviadLV",
+      "crop": null
+    },
+    "shade-1b293ee184e56a.webp": {
+      "sourceFileId": "1PCr1DPSEmV1vddrI44XvUK0M5sBNvkmL",
+      "crop": null
+    },
+    "shade-b750adc1b4433c.webp": {
+      "sourceFileId": "1x4i9VC9zq_iyTo_XnxwfVGd1T4xyUut4",
+      "crop": null
+    },
+    "shade-dffe7085a4c1d1.webp": {
+      "sourceFileId": "1irnehFH__W8Wn2WwZDVxGsyTEpAXhkzR",
+      "crop": null
+    },
+    "shade-df29c4d19c5a29.webp": {
+      "sourceFileId": "1WhHlWiBwTaaL1lzafU-faQFm5hDgjylb",
+      "crop": null
+    },
+    "shade-207015ac47d2cd.webp": {
+      "sourceFileId": "1QNI7fdrcfX65jtlBRAHXYQ-GJjv5Wm5r",
+      "crop": null
+    },
+    "shade-9b6fcd323eae4e.webp": {
+      "sourceFileId": "1fCiCr2mCzhHh3FIX3Pqg069KKP2uCuf2",
+      "crop": null
+    },
+    "shade-07766b5bd83c11.webp": {
+      "sourceFileId": "18Sirnji-R4gNco-LaFVvph9MpcaiRtjd",
+      "crop": null
+    },
+    "shade-93f4aa28f4a405.webp": {
+      "sourceFileId": "1sNixEp2BTuxqFoVPxXXCi3sZmuC3TNWB",
+      "crop": null
+    },
+    "shade-491bf49d5f4642.webp": {
+      "sourceFileId": "1DXXIkMaBSz5c3FonXr5rd6Tm7Bxfb9Ow",
+      "crop": null
+    },
+    "shade-96ac65d518f1c2.webp": {
+      "sourceFileId": "1xYOE7pXVQjBvkYuhx5j9LT52j5AGEs2E",
+      "crop": null
+    },
+    "shade-244a9905df5eea.webp": {
+      "sourceFileId": "1BL07CSGzQtUQw1QV3xk91aDj86X_9TD2",
+      "crop": null
+    },
+    "shade-39e7a31da2cc7c.webp": {
+      "sourceFileId": "1aseIyT-SetVSNA89JkvjANOnEwR4g1jR",
+      "crop": null
+    },
+    "shade-6bc01fd42d189a.webp": {
+      "sourceFileId": "1Rh1z3uMh6KoMoUE1FWc3XMQ4NnDpwxVx",
+      "crop": null
+    },
+    "shade-3b601a8caf939f.webp": {
+      "sourceFileId": "1fbxOWNimc4WDWp9BeWgkF6M2dqxhOwwN",
+      "crop": null
+    },
+    "shade-381d1c19bce3f3.webp": {
+      "sourceFileId": "188NSMIaf0-EDYNPLvJBcbIRHL6NLJehQ",
+      "crop": null
+    },
+    "shade-be35a1efa3165d.webp": {
+      "sourceFileId": "1unzy5ZMF5U_nccZa158FtgU5n-q_Uybr",
+      "crop": null
+    },
+    "shade-ab2e7464d500f5.webp": {
+      "sourceFileId": "179pptnb1VTn6BcdcAMuFefAqOtfnEGug",
+      "crop": null
+    },
+    "shade-2a10c6caea38cd.webp": {
+      "sourceFileId": "13NeVkFyvivSv5Bqi07g9k3ZM675ZmEPt",
+      "crop": null
+    },
+    "shade-2d2ee12c616de2.webp": {
+      "sourceFileId": "1kH7HR94x0nfxYuAEfn7GjqY26oQ4uTEq",
+      "crop": null
+    },
+    "shade-278bbcbdea7bae.webp": {
+      "sourceFileId": "1suRwzDXwwQPLDaGyUqe_c3XOLLtbjVah",
+      "crop": null
+    },
+    "shade-4debced0baf418.webp": {
+      "sourceFileId": "1ic9d8WWRRU1LMnAigCdcrzk2ruyc8ldG",
+      "crop": null
+    },
+    "shade-e52eda9b978113.webp": {
+      "sourceFileId": "1VwyWpiAhF8QisdHrU4pUG7r5OimAC7Aw",
+      "crop": null
+    },
+    "shade-7b66697c231b0d.webp": {
+      "sourceFileId": "1bcY7Uej8ndZUipUS7oSniw0D096qWujT",
+      "crop": null
+    },
+    "shade-39d8d6b99abba6.webp": {
+      "sourceFileId": "1aLN0KsgAqXLkgg_lLDmGxrstzmFKRbw0",
+      "crop": null
+    },
+    "shade-155a28ee2856eb.webp": {
+      "sourceFileId": "1xbwvhmNACgoI_o13B43j-owo36JIbijW",
+      "crop": null
+    },
+    "shade-73d8c3f51e86c1.webp": {
+      "sourceFileId": "1BYwSqSRaFEcBE3vgo7jphRQI-iCjW0Mb",
+      "crop": null
+    },
+    "shade-38f9153bf63a64.webp": {
+      "sourceFileId": "1XRGgH_UWTcr8gKL0rYZCAgOhKR2a8xdY",
+      "crop": null
+    },
+    "shade-2b2bdfa335abe0.webp": {
+      "sourceFileId": "12URB-o9Jbd0i9CHfXqwaZizH-ooyWRn3",
+      "crop": null
+    },
+    "shade-4a7448bc0245e8.webp": {
+      "sourceFileId": "1GSpcxas6zHgarvFqFBQxP-X5oHrBWPv_",
+      "crop": null
+    },
+    "shade-9747ddcfeda6e4.webp": {
+      "sourceFileId": "1Bi-gS1dIKIP58pQt0ixt6d2k8eqjWtPG",
+      "crop": null
+    },
+    "shade-3341f12197cd15.webp": {
+      "sourceFileId": "1j9sKPFJGn36hFw5YoAMlXLmMjTy_Hf9-",
+      "crop": null
+    },
+    "shade-eb1d5e2be8074f.webp": {
+      "sourceFileId": "1183v9bf8UkdcFzp57YEpB28v-xoZv53z",
+      "crop": null
+    },
+    "shade-e5fee6fce1bfc8.webp": {
+      "sourceFileId": "12r5rj5Na_o3G3Bbflii-VFs2mmx9-8Sq",
+      "crop": null
+    },
+    "shade-355e1c221875b6.webp": {
+      "sourceFileId": "1AqKfq0aRmV2vMbOXNnW2a8oj2zoNaJ8W",
+      "crop": null
+    },
+    "shade-ba2f771d8af370.webp": {
+      "sourceFileId": "1nqLkjkQrxIgQybaT1Whfdm2dh7FuclGn",
+      "crop": null
+    },
+    "shade-91f0b57e2ff86f.webp": {
+      "sourceFileId": "1G51oOFT5pDsPgApr3ek1SG9yfFzJnSPv",
+      "crop": null
+    },
+    "shade-911251a4ea3932.webp": {
+      "sourceFileId": "1uc20OpVp6ubnUf6UpOw3r_WwdUfQTWFN",
+      "crop": null
+    },
+    "shade-779d987300c968.webp": {
+      "sourceFileId": "1Ef2gmFGt0rkhmNqIax8JoPAntUY00lnp",
+      "crop": null
+    },
+    "shade-95bb6ce56180c1.webp": {
+      "sourceFileId": "1T2jnBH1K8lIayrF0PWI4rpTqZ4BgXClV",
+      "crop": null
+    },
+    "shade-d3ea1e17f0bcf6.webp": {
+      "sourceFileId": "137mAWuqhBa3oeriaIbqRxi9sfZzed9FR",
+      "crop": null
+    },
+    "shade-291574e0e51dce.webp": {
+      "sourceFileId": "1c-ed6J09ZUHbzyt-aRZYRQk--1G0oMqh",
+      "crop": null
+    },
+    "shade-d48e9ea9c94b79.webp": {
+      "sourceFileId": "1X72PiwHfjZ-w9StR5uD2hqnUwceEC4hL",
+      "crop": null
+    },
+    "shade-e1a22586501ed5.webp": {
+      "sourceFileId": "1G5kcipRtgddvYi-_TZIXn41ghAwYt5hi",
+      "crop": null
+    },
+    "shade-17e64695b9295a.webp": {
+      "sourceFileId": "1lOHvX1bMgqrSy5i2T7M5REPMdNWtLu8v",
+      "crop": null
+    },
+    "shade-089a764acc2e36.webp": {
+      "sourceFileId": "14p5-ybfSFMSjqWSV58Scb_WjBeJRVUHj",
+      "crop": null
+    },
+    "shade-dd3d566c11a6b7.webp": {
+      "sourceFileId": "1b9gpWLCJjJ65p-ilWNu9co4xEmUAESm8",
+      "crop": null
+    },
+    "shade-f55d57c81e2c09.webp": {
+      "sourceFileId": "105GEeHRKgHeNkUPJfuP5RvtwuarpetOb",
+      "crop": null
+    },
+    "shade-edd030bb1665d9.webp": {
+      "sourceFileId": "1jSvFtqGId7DCPW4dZhzLS3WQQX411HzZ",
+      "crop": null
+    },
+    "shade-d2971e7010e0da.webp": {
+      "sourceFileId": "1seHnGzvi1Zkw-U5gjOp7weuMcudbGCHY",
+      "crop": null
+    },
+    "shade-f4607590263775.webp": {
+      "sourceFileId": "1uMq4O6p4TPCMfI5AqMM1y6gS8zD8ao-A",
+      "crop": null
+    },
+    "shade-10d474dc5cd531.webp": {
+      "sourceFileId": "1bUSe9xJoUrkvjNhfm2vTvxUHWx2NcDFl",
+      "crop": null
+    },
+    "shade-64cece2971208a.webp": {
+      "sourceFileId": "1FNMHDzl1_Gn8tVCJmVtEsbryhLpoqIqf",
+      "crop": null
+    },
+    "shade-7ecada2166b9a8.webp": {
+      "sourceFileId": "1kbGz4vntvbZOzTJbITg5DDyCX4llbX9m",
+      "crop": null
+    },
+    "shade-9571d0370acf5c.webp": {
+      "sourceFileId": "1qIPTzV70DnEzp9Xc75LPj3DxeBZcMWMZ",
+      "crop": null
+    },
+    "shade-24135175350f93.webp": {
+      "sourceFileId": "1dSTa5jAMCJsyyXqgGUQF-wfGONPvI4jo",
+      "crop": null
+    },
+    "shade-472de078cddb11.webp": {
+      "sourceFileId": "1XKvNDNLnSFchOlZc6AUTZe3WEfUVZ3SA",
+      "crop": null
+    },
+    "shade-8577692cc050d7.webp": {
+      "sourceFileId": "1K4IRS-baKFpaU5GM1_8QBk2q3T6XC0ou",
+      "crop": null
+    },
+    "shade-171b60cac139ea.webp": {
+      "sourceFileId": "1nN7PWBQyMkp67SUSflno_y6MQENrf4VF",
+      "crop": null
+    },
+    "shade-e92e4a679f1bf1.webp": {
+      "sourceFileId": "1poj-RiNJM8WLsn9BLI1hpA1zU3Af6PIu",
+      "crop": null
+    },
+    "shade-a233bc78a2fc5f.webp": {
+      "sourceFileId": "1X7t6DSgp0KQYSbAKcZuB3dcjfDI23XAN",
+      "crop": null
+    },
+    "shade-864934847ad1ec.webp": {
+      "sourceFileId": "1UoCURQrwzsG2QeUVFgKLJ-_01Sg0sV6Z",
+      "crop": null
+    },
+    "shade-703655fb19ef3b.webp": {
+      "sourceFileId": "16moupGWhzPSBe3OrgLULLiyPNB8kheK0",
+      "crop": null
+    },
+    "shade-7aec166d04cdd0.webp": {
+      "sourceFileId": "16OI1DqEh87XV8vrp17tyo3bQmozY4ZoG",
+      "crop": null
+    },
+    "shade-4a2104e8921686.webp": {
+      "sourceFileId": "1yAazLFR62xaVLppBby8ashVKi7BVpUHK",
+      "crop": null
+    },
+    "shade-b3660826ac6651.webp": {
+      "sourceFileId": "1DSujAFqI5sb8ssR78uQ5MWDEhJ9VtmFa",
+      "crop": null
+    },
+    "shade-884934315323e6.webp": {
+      "sourceFileId": "10Vrmm8L1PAs_gw2At89U0zLdDM4_3LAP",
+      "crop": null
+    },
+    "shade-adae8d51712644.webp": {
+      "sourceFileId": "1JJzQsJ7PLECA_gq_bUSmxOJMpa7OQ241",
+      "crop": null
+    },
+    "shade-e8b4b8d21be825.webp": {
+      "sourceFileId": "1Mw5H5yIGAovE6KwgsdfXL_tkAd7FHBV6",
+      "crop": null
+    },
+    "shade-110d7b9d7626fa.webp": {
+      "sourceFileId": "1uaotn1q2JhnJzFHNU98A1UHr_4qEk4Vm",
+      "crop": null
+    },
+    "shade-4a9fa6a354fc4b.webp": {
+      "sourceFileId": "11pZnPciEpezI6VzK-YDV-mfgizE_PVQM",
+      "crop": null
+    },
+    "shade-49cd7ae36a7c29.webp": {
+      "sourceFileId": "1e_6RLP57XQY6tiaK3srSYbPXmpsAf_Q4",
+      "crop": null
+    },
+    "shade-d514e79b926b37.webp": {
+      "sourceFileId": "1xSIcduN6ubTN62CaFDkA5Jodm7Y6urw1",
+      "crop": null
+    },
+    "shade-0d114b23fa9837.webp": {
+      "sourceFileId": "1qmgDABwOIea8ypQySPYHkVvIbxCkVvjL",
+      "crop": null
+    },
+    "shade-a6744904dbfb9e.webp": {
+      "sourceFileId": "10HJG9pvkN1uaVJSUMLThZk_VPc25yttI",
+      "crop": null
+    },
+    "shade-e20003699c3591.webp": {
+      "sourceFileId": "12RUHlggllzE8iYrbZKc8VppZ3SjPrvoc",
+      "crop": null
+    },
+    "shade-022bef774a1482.webp": {
+      "sourceFileId": "1mvpunLW17zlaovVo5UOAcXbhm58MOM0f",
+      "crop": null
+    },
+    "shade-41c0e0356dead8.webp": {
+      "sourceFileId": "1t6MBQPvHToNgfLw9KpDM8CxxBVcugZAl",
+      "crop": null
+    },
+    "shade-8ab726b90f9fca.webp": {
+      "sourceFileId": "1IK6QajkZOqaJKY5DBUEhNIYOMkfwCE-g",
+      "crop": null
+    },
+    "shade-af75d3f5433ac5.webp": {
+      "sourceFileId": "1i4EU6FEzKUlOP7183a3853eGXw9XO2X3",
+      "crop": null
+    },
+    "shade-e4f0f93097f7bc.webp": {
+      "sourceFileId": "1Hk3XZiB45FuNxLj6lpHVwG1zky2JX-Pg",
+      "crop": null
+    },
+    "shade-f94b954b20bec3.webp": {
+      "sourceFileId": "1IXQWiKQzveMXzQNVQwTE1dS9DOi5Xbo9",
+      "crop": null
+    },
+    "shade-15e52ea52239e7.webp": {
+      "sourceFileId": "1FNXZ4YDwOzAtVSQjvTLVW5uLMKU99r1g",
+      "crop": null
+    },
+    "shade-b10667d6dfbeed.webp": {
+      "sourceFileId": "1Il6X177Iq_klcI98fw_StRbg40hcOg4x",
+      "crop": null
+    },
+    "shade-2e64f2cbba8578.webp": {
+      "sourceFileId": "1CNN-ojmmk-rWraznoxnv7kh2HiVGCxmk",
+      "crop": null
+    },
+    "shade-99b73ac4232386.webp": {
+      "sourceFileId": "17AVddBgzFAwkmlj3JviMTSDFailTRqMN",
+      "crop": null
+    },
+    "shade-1aa5e35aabe887.webp": {
+      "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+      "crop": [
+        0.16,
+        0.33,
+        0.48,
+        0.44
+      ]
+    },
+    "shade-5469b9da86788a.webp": {
+      "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+      "crop": [
+        0.16,
+        0.45,
+        0.48,
+        0.56
+      ]
+    },
+    "shade-76261419b62cc6.webp": {
+      "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+      "crop": [
+        0.16,
+        0.5700000000000001,
+        0.48,
+        0.6799999999999999
+      ]
+    },
+    "shade-660bc087664f9d.webp": {
+      "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+      "crop": [
+        0.16,
+        0.69,
+        0.48,
+        0.8
+      ]
+    },
+    "shade-53e6e2c2881d26.webp": {
+      "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+      "crop": [
+        0.51,
+        0.33,
+        0.83,
+        0.44
+      ]
+    },
+    "shade-4149f444d8951a.webp": {
+      "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+      "crop": [
+        0.51,
+        0.45,
+        0.83,
+        0.56
+      ]
+    },
+    "shade-6b7f8c3ee15b17.webp": {
+      "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+      "crop": [
+        0.51,
+        0.5700000000000001,
+        0.83,
+        0.6799999999999999
+      ]
+    },
+    "shade-44e95137090f3e.webp": {
+      "sourceFileId": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+      "crop": [
+        0.51,
+        0.69,
+        0.83,
+        0.8
+      ]
+    },
+    "shade-4cfdef41646870.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": null
+    },
+    "shade-2f90cf599139fd.webp": {
+      "sourceFileId": "1fAKX_aIfI8tgDfvFHe3U2HWMVsYRBXUy",
+      "crop": null
+    },
+    "shade-535f4d5c463902.webp": {
+      "sourceFileId": "1u6sAnC9MQd5y_a2PtHZS5qF4u87SjGqS",
+      "crop": null
+    },
+    "shade-8834e9dc3ad5ce.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.09933333333333333,
+        0.48083333333333333,
+        0.22733333333333333,
+        0.5441666666666667
+      ]
+    },
+    "shade-56d33c3cd5553f.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.126,
+        0.56,
+        0.254,
+        0.6233333333333333
+      ]
+    },
+    "shade-fae4d0e6d73c11.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.14933333333333335,
+        0.6433333333333333,
+        0.2773333333333333,
+        0.7066666666666667
+      ]
+    },
+    "shade-2305cc7482bc73.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.176,
+        0.7266666666666667,
+        0.304,
+        0.79
+      ]
+    },
+    "shade-9a8235fe40f480.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.20266666666666666,
+        0.8016666666666666,
+        0.33066666666666666,
+        0.865
+      ]
+    },
+    "shade-134ed160407a4f.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.22933333333333333,
+        0.885,
+        0.35733333333333334,
+        0.9483333333333334
+      ]
+    },
+    "shade-ca83356ed84b47.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.2826666666666667,
+        0.33916666666666667,
+        0.4106666666666667,
+        0.4025
+      ]
+    },
+    "shade-8e1e84e81330d2.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.306,
+        0.43916666666666665,
+        0.434,
+        0.5025
+      ]
+    },
+    "shade-762dd6e411f956.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.3426666666666667,
+        0.5516666666666666,
+        0.4706666666666667,
+        0.615
+      ]
+    },
+    "shade-4f07779a3140c5.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.36933333333333335,
+        0.66,
+        0.49733333333333335,
+        0.7233333333333334
+      ]
+    },
+    "shade-ccbc6c3c8758bb.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.4026666666666667,
+        0.7641666666666667,
+        0.5306666666666666,
+        0.8275
+      ]
+    },
+    "shade-87aa17887902c8.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.46266666666666667,
+        0.22666666666666666,
+        0.5906666666666667,
+        0.29
+      ]
+    },
+    "shade-aeec15042def61.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.49266666666666664,
+        0.31,
+        0.6206666666666667,
+        0.37333333333333335
+      ]
+    },
+    "shade-4e89edf8850349.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.526,
+        0.385,
+        0.654,
+        0.4483333333333333
+      ]
+    },
+    "shade-c282201c8e2c69.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.556,
+        0.4725,
+        0.684,
+        0.5358333333333334
+      ]
+    },
+    "shade-61c572344a0c36.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.586,
+        0.5558333333333333,
+        0.714,
+        0.6191666666666666
+      ]
+    },
+    "shade-d98c0abb7aba2b.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.6193333333333333,
+        0.635,
+        0.7473333333333333,
+        0.6983333333333334
+      ]
+    },
+    "shade-75eb772b8782a7.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.696,
+        0.16,
+        0.824,
+        0.22333333333333333
+      ]
+    },
+    "shade-b7b02a49a9a1a8.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.7293333333333333,
+        0.2475,
+        0.8573333333333333,
+        0.31083333333333335
+      ]
+    },
+    "shade-28b6148cf1d7ad.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.7593333333333333,
+        0.32666666666666666,
+        0.8873333333333333,
+        0.39
+      ]
+    },
+    "shade-d8ada83c1802e5.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.7926666666666666,
+        0.41,
+        0.9206666666666666,
+        0.47333333333333333
+      ]
+    },
+    "shade-322396bd02d8bd.webp": {
+      "sourceFileId": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "crop": [
+        0.8226666666666667,
+        0.49333333333333335,
+        0.9506666666666667,
+        0.5566666666666666
+      ]
+    },
+    "shade-3da33886becf64.webp": {
+      "sourceFileId": "1TEX5aOJ3EuD_9gBMbMVEQhND3sISzHyc",
+      "crop": null
+    },
+    "shade-02bc16bd072580.webp": {
+      "sourceFileId": "18k0lu1taJPYbI-vQc1Sf0HRxW4uPN4aM",
+      "crop": null
+    },
+    "shade-377ecd5e6f6578.webp": {
+      "sourceFileId": "1h_gs1ti3BKnX92q0yviQ5Yz7ltZ5eHQc",
+      "crop": null
+    },
+    "tryspan-primrose-model.webp": {
+      "sourceFileId": "1k4iFIuTygg8hb8KJB9NS6iPYv0gcvwvw",
+      "crop": null
+    },
+    "shade-2675e5ccb47d42.webp": {
+      "sourceFileId": "1jdggu7rZ_g_vRpRHzYDHCMluR64uTJ-C",
+      "crop": null
+    },
+    "shade-8e83c00aa93de3.webp": {
+      "sourceFileId": "1KxSIt-arTjF1jiQodFcEq1Df6EvPCp9N",
+      "crop": null
+    },
+    "shade-ae247895c1da50.webp": {
+      "sourceFileId": "1sXe9z6KuSOQLzcLFUSZF63dXNborp6ek",
+      "crop": null
+    },
+    "shade-09186cb500c312.webp": {
+      "sourceFileId": "1aF7iLThfdBhQV4vKgv2Pu54DMLrUHgAR",
+      "crop": null
+    },
+    "shade-26f68971267187.webp": {
+      "sourceFileId": "1SJBBiUxUDLzW_wq7Dcskax1ANDQQie2T",
+      "crop": null
+    },
+    "shade-224986abf042db.webp": {
+      "sourceFileId": "1pSkC-aYZR2F1ebSSCSs5iLoVK7_tUzDR",
+      "crop": null
+    },
+    "shade-388f50f5eb3058.webp": {
+      "sourceFileId": "1eva5UC4I0gZ4JexqIvRpK02iEJ0_oZvv",
+      "crop": null
+    },
+    "shade-79764e04c64d2c.webp": {
+      "sourceFileId": "1y2qXC3Q4BRXm1zMGxejAYEJaVSFh1fGV",
+      "crop": null
+    },
+    "shade-5223ccd6f7dd58.webp": {
+      "sourceFileId": "1PxPFi2WqT7maHARVVg14gdp1X_Hix4nZ",
+      "crop": null
+    },
+    "shade-26e8537c28b0f7.webp": {
+      "sourceFileId": "1MZpz3QJP3BisNruDJoMw4JgvK5DOIZmr",
+      "crop": null
+    },
+    "shade-a700d8bbd34eb5.webp": {
+      "sourceFileId": "17P5jSm2L20i_-k_HmgCoxGSmde7ijShg",
+      "crop": null
+    },
+    "shade-5177e696c34a70.webp": {
+      "sourceFileId": "131AhpmO0pOET7u_vyu5pD-wrUkx1NH-l",
+      "crop": null
+    },
+    "shade-dcd7b5e730dad1.webp": {
+      "sourceFileId": "1MZGbRTjPA_3bRt5p5HW9D-cJw4ysClum",
+      "crop": null
+    },
+    "shade-d7377a8ec82cc0.webp": {
+      "sourceFileId": "1wGFlxmJ_W4NqXlkkfZfjNR5CU6xEC2Nm",
+      "crop": null
+    },
+    "shade-65577831cb118e.webp": {
+      "sourceFileId": "1XaK0wJUFYm8OJ2v7lbXFXLa3E0ZyaUH7",
+      "crop": null
+    },
+    "shade-f14478fe568818.webp": {
+      "sourceFileId": "1tKoHPA8HO6LstzxqjBzniMWwkcvNxnNM",
+      "crop": null
+    },
+    "shade-eb4e60517e4a29.webp": {
+      "sourceFileId": "137ImUMdeQJmKIHbDHfrJXCTNVbpGYDLy",
+      "crop": null
+    },
+    "shade-c3f092ad588b7c.webp": {
+      "sourceFileId": "1igRVhdk7rS5LNiUOML1K0TTe1echniEf",
+      "crop": null
+    },
+    "shade-8367e30c6833b6.webp": {
+      "sourceFileId": "1t6yeskYZETMZMZwHbyoWB0Wot8DI1r_O",
+      "crop": null
+    },
+    "shade-6b6106d85873b8.webp": {
+      "sourceFileId": "1m1ZeRNafaLxQ-izp_IeaKYVyidBKlF64",
+      "crop": null
+    },
+    "shade-df7d514c84c425.webp": {
+      "sourceFileId": "1hIvtpH-FAqfalx1PCyDrzAZBfBNdytLu",
+      "crop": null
+    },
+    "shade-3b7790274e76ec.webp": {
+      "sourceFileId": "1G8KfTAAQaYypZIulqzEVWOQ0UyC0LocX",
+      "crop": null
+    },
+    "shade-f0c5b072a652f3.webp": {
+      "sourceFileId": "1_rB7sv4mxh65buFVuoMtJ0ljHts6X-Mk",
+      "crop": null
+    },
+    "shade-bc5b1e9318118f.webp": {
+      "sourceFileId": "1qr96dZs0ykiCmmTF0LL8G8iXfxP92Hiu",
+      "crop": null
+    },
+    "shade-1003eb3f37b94c.webp": {
+      "sourceFileId": "1hOdoWqqf3kv-e4wNB5e7Kdr0DlUmJkNH",
+      "crop": null
+    },
+    "shade-a24d493d1f9251.webp": {
+      "sourceFileId": "1ZSDM2mM5OB_SKqBQYp9DIaJt4G-iaXie",
+      "crop": null
+    },
+    "shade-49a8127025dca9.webp": {
+      "sourceFileId": "1c1e8pEEGPTsJw_o6i8YmV0pOgGMgzsfb",
+      "crop": null
+    },
+    "shade-67cefa4b895598.webp": {
+      "sourceFileId": "1gZbP08iJSu8OGqJJJCT7lT13BXg-eBnc",
+      "crop": null
+    },
+    "shade-a7ca12395e73b7.webp": {
+      "sourceFileId": "1oac73YHAEB_YFSNhVHANRBudtBYKwJ-P",
+      "crop": null
+    },
+    "shade-105c385641f519.webp": {
+      "sourceFileId": "13arROG7CdApuyYpeFCzUzBGK1b2HDX9l",
+      "crop": null
+    },
+    "shade-aeed62eba4557d.webp": {
+      "sourceFileId": "1-NkQAA2Ah3Ylxsk-tkrr-8QohC_TJcwX",
+      "crop": null
+    },
+    "shade-dccc9c4b2dbd36.webp": {
+      "sourceFileId": "1VHhax8HZ5Eo-1e-e2Ks5lHL1BLa_j4ga",
+      "crop": null
+    },
+    "shade-3062b17f58e872.webp": {
+      "sourceFileId": "1GNCZ2iIfMWim2cyNAzxMoSYXp8DCVgUO",
+      "crop": null
+    },
+    "shade-fc89b3a019ee13.webp": {
+      "sourceFileId": "1UGfsKKahGQ-3W1VJhlYhU2ifZWqPzXtH",
+      "crop": null
+    },
+    "shade-411a9ef2199749.webp": {
+      "sourceFileId": "1hlc6O4HT2DAFND9ULsyedfp-vp3S0rHd",
+      "crop": null
+    },
+    "shade-2b1e072ce12cfd.webp": {
+      "sourceFileId": "1hCUd-0v6L305kZxhn8GSWQN2un9QIhnZ",
+      "crop": null
+    },
+    "shade-db1054e62c9b87.webp": {
+      "sourceFileId": "1gdYpiDPPkCb761mmkLXcqPlYouf_7fk3",
+      "crop": null
+    },
+    "shade-52468c5c6a990a.webp": {
+      "sourceFileId": "1LIFmai9Bz_6LqSN8zsFscnAYSnROsNKG",
+      "crop": null
+    },
+    "shade-4e238e32a47285.webp": {
+      "sourceFileId": "1Cpg00M54t9bgbiIBMWxEaqYndjSh0tfF",
+      "crop": null
+    },
+    "shade-c40ccf5e2bbbf7.webp": {
+      "sourceFileId": "1Dcb2ba6OuJiTGVQ-SlGO8Oo3n2LlP5BV",
+      "crop": null
+    },
+    "shade-de93b3c0416d19.webp": {
+      "sourceFileId": "1UPQGchzxLwOpT3-WyanKelcN9FQWPJiB",
+      "crop": null
+    },
+    "shade-587606931bfdd7.webp": {
+      "sourceFileId": "1l5x67G2NJMvH9MzjjZiRS-mZWk-RWtSZ",
+      "crop": null
+    },
+    "shade-8deefe9931576f.webp": {
+      "sourceFileId": "1LqCFG5gnJNWK84ZPreXvhFVHSZpYH7Jw",
+      "crop": null
+    },
+    "shade-c903469b4c212c.webp": {
+      "sourceFileId": "1utFklKgFq47dSR_AR5knUWMt5V3gJQwJ",
+      "crop": null
+    },
+    "shade-be135bf4c40959.webp": {
+      "sourceFileId": "1p1su7xJdHDZ_OavtjRxkdjkF6uWoJqcq",
+      "crop": null
+    },
+    "shade-58067099076e18.webp": {
+      "sourceFileId": "11kEIOAdDvjTi_-IgNeraNlvlgNfxFU6v",
+      "crop": null
+    },
+    "shade-a3791fb00c051c.webp": {
+      "sourceFileId": "1mI3g0_YBcyS5z1nzwQgs2gbHc-7g77x2",
+      "crop": null
+    },
+    "shade-bb0d88a7ee344e.webp": {
+      "sourceFileId": "1L4l_WRTPzwgqy7G3DvYia2amSbJY8o-Z",
+      "crop": null
+    },
+    "shade-bd1d99dba10fa1.webp": {
+      "sourceFileId": "1ASge4wLmSk4dFlDtK58msD0B6jP3eD5p",
+      "crop": null
+    },
+    "shade-1d2a5efd2e6cc7.webp": {
+      "sourceFileId": "1gGkFJvC3tRxXZtwKY862BYZKtsM98Vsy",
+      "crop": null
+    },
+    "shade-40badc0d5a1ee9.webp": {
+      "sourceFileId": "1ZGhg1VqFWlfL5xRpoXnq5iZ8UQAWf8Bn",
+      "crop": null
+    },
+    "shade-b7b7bec96554c2.webp": {
+      "sourceFileId": "1j6u_S0c759Zn-p24Et89JK1b64jwp_ix",
+      "crop": null
+    },
+    "shade-2f9fb7e09e80cb.webp": {
+      "sourceFileId": "1x-ILZtF4t0QB7dLZHCY3ryE4eR-g-smy",
+      "crop": null
+    },
+    "shade-27f5e28b58f996.webp": {
+      "sourceFileId": "1qPJ8TtV8jzqEPkNihXRebpBIMZk9K3UF",
+      "crop": null
+    },
+    "shade-d48c1f62660c40.webp": {
+      "sourceFileId": "1ex2Odna_76pIcrA79LlI_kCH1EehuX9G",
+      "crop": null
+    },
+    "shade-d76e11f7f7fcc2.webp": {
+      "sourceFileId": "1WFLbTTv43ETWXTmxeZ-hefHSFsSKdVr2",
+      "crop": null
+    },
+    "shade-b6d09f44cac4b4.webp": {
+      "sourceFileId": "1DBTUdRoJLRJfYa1m-CqA8XQOkN5uC6Pt",
+      "crop": null
+    },
+    "shade-f365367d08d794.webp": {
+      "sourceFileId": "1ayfmgPFpAtwobJoZ87kTnMYRjdMvX4Mn",
+      "crop": null
+    },
+    "shade-9599f3a03213fe.webp": {
+      "sourceFileId": "1lia_9SUp1XrjXkObsedd_EPNWRRiUIVl",
+      "crop": null
+    },
+    "shade-5982f529d95734.webp": {
+      "sourceFileId": "1a21-RdM-AxWUwgYcZH1j_fZdgePOjQdX",
+      "crop": null
+    },
+    "shade-08292cc829fb91.webp": {
+      "sourceFileId": "1MSr089fsa-B6ZyJabZLQaE2rE7cRoOph",
+      "crop": null
+    },
+    "shade-87ceca59578ef1.webp": {
+      "sourceFileId": "19yX5l2ocKLGX11-4udYYmvQhnOEk5qXF",
+      "crop": null
+    },
+    "shade-94520ea725c858.webp": {
+      "sourceFileId": "1R95GEkTp0rhmw2_-86Jttns5AGgEQFqQ",
+      "crop": null
+    },
+    "shade-4d0109b649b2c9.webp": {
+      "sourceFileId": "1I2q90lPkmzKqlTpuWlMEWYcq2fl48PSG",
+      "crop": null
+    },
+    "shade-f57851bb2139f8.webp": {
+      "sourceFileId": "170kzOWYA2u0PbrsR71JH2G2u4qNfSA2C",
+      "crop": null
+    },
+    "shade-26a46f05a93695.webp": {
+      "sourceFileId": "1mknlJBUy0MuiH6so9hMx00Pyf6COiID9",
+      "crop": null
+    },
+    "shade-87df3d827de586.webp": {
+      "sourceFileId": "1AgKcc31zVOqFhGb0mKEAThgsLRSDd_S0",
+      "crop": null
+    },
+    "shade-22963beb14efae.webp": {
+      "sourceFileId": "1d9jg3YJ382R2s0jWNbnfQseNYGdGB1mX",
+      "crop": null
+    },
+    "shade-059b035e3db08d.webp": {
+      "sourceFileId": "1_L6P7u-tKLhnxfVC1HJ_HPODsBV3bMRs",
+      "crop": null
+    },
+    "shade-6e40bec0232ab9.webp": {
+      "sourceFileId": "1VfusgyofBOkwa7x0ff1_-n78PksP36mW",
+      "crop": null
+    },
+    "shade-65d09d9f5637cf.webp": {
+      "sourceFileId": "1rayQqItRw5RwfvXWgwREshdF4YXmg3Fa",
+      "crop": null
+    },
+    "shade-04ca3889ead979.webp": {
+      "sourceFileId": "1GVZXlnhixhsPIzAUPh5KjxN04BbUzkW1",
+      "crop": null
+    },
+    "shade-f69ff9c3e89896.webp": {
+      "sourceFileId": "17OY9Regx-g7AZuywo19C-VC0P8p4t4ND",
+      "crop": null
+    },
+    "shade-caf0d2a61db10c.webp": {
+      "sourceFileId": "1OFIMzAT6gEsdnAFBG0PmaR2PhPr1EFJU",
+      "crop": null
+    },
+    "shade-a312851ce3c5af.webp": {
+      "sourceFileId": "17O4AcrmQ0NzSVSfg90wLlm90AwP6L2TO",
+      "crop": null
+    },
+    "shade-fa417d9627650d.webp": {
+      "sourceFileId": "11yr4jB50XT5Ibgspp_UIbNkF74VooZrB",
+      "crop": null
+    },
+    "shade-04db6d2507af67.webp": {
+      "sourceFileId": "1ZISa4sax82bwjw9GmjmZz8rnY2Slx1y_",
+      "crop": null
+    },
+    "shade-7cdb1519e62d6c.webp": {
+      "sourceFileId": "1qYOagaj-tZYGKrvK4pein2FZc9cugsCi",
+      "crop": null
+    },
+    "shade-a8ac5d805f3dd2.webp": {
+      "sourceFileId": "19S0S9Xa-DTL3UFzFf3laflodnVCY_Y_s",
+      "crop": null
+    },
+    "shade-3b8d1da7491b33.webp": {
+      "sourceFileId": "1iHBxwNQLDHGc4Ob7gs1SamzCXRsWYyk2",
+      "crop": null
+    },
+    "shade-97b16db7b3694f.webp": {
+      "sourceFileId": "1Yhyj0U-SDrsId8tS03AiUdR3hj_JelRs",
+      "crop": null
+    },
+    "shade-9d2422cf2a2ecb.webp": {
+      "sourceFileId": "1nwyUOMyIX1BmzJieJ-cr03jd5a_33C4n",
+      "crop": null
+    },
+    "shade-b0316f7a51a8d8.webp": {
+      "sourceFileId": "1EZRKsi3bAUyHtNWB_1N4waF8yf2XC5Wp",
+      "crop": null
+    },
+    "shade-bfd8a059f317ac.webp": {
+      "sourceFileId": "1hPaIivo_qHhwRj0dpOZbP8RFb0I_FSYh",
+      "crop": null
+    },
+    "shade-3a4a2944561b72.webp": {
+      "sourceFileId": "1kESZOKfKqZUETfJnC6E0AYc44TxDUj6U",
+      "crop": null
+    },
+    "shade-d06a6c38e0cf95.webp": {
+      "sourceFileId": "18GEl72yaXxCrcDuxdbCq27AFfsVwXWJR",
+      "crop": null
+    },
+    "shade-e5b1ec298882ea.webp": {
+      "sourceFileId": "1Qf-O3Im0RJnBEfrw7lnkS1rzYv2FOQjU",
+      "crop": null
+    },
+    "shade-fdcb18b7788f90.webp": {
+      "sourceFileId": "1anGrXU5ujnWTdpPSTfyrQsswVk2sfChR",
+      "crop": null
+    },
+    "shade-c9601b4363fd6f.webp": {
+      "sourceFileId": "1sOuSoUbCWa_U0vMiPqLRPh8BEEHLDLKN",
+      "crop": null
+    },
+    "shade-33ee4250a972ca.webp": {
+      "sourceFileId": "1zn4c5LP87CP3DgQSPnPgA8I6yd5G1YQW",
+      "crop": null
+    },
+    "shade-c31bdab8cc5679.webp": {
+      "sourceFileId": "10-1e4cJZtqE59iqs-V7-CfG3xYLADNBn",
+      "crop": null
+    },
+    "shade-e26d7088fa2827.webp": {
+      "sourceFileId": "1Jb294roSWouKJHpK3Xg6nybIbKc2SF4I",
+      "crop": null
+    },
+    "shade-3220232ef275bd.webp": {
+      "sourceFileId": "1T70oaU2C1XHKklD1sBeywkWORjUB8DY7",
+      "crop": null
+    },
+    "shade-6ad47f2a47a731.webp": {
+      "sourceFileId": "1Yan3Gh5YvoERM8H8QjCeRPFsf4nxd6us",
+      "crop": null
+    },
+    "shade-1d3ac55572b1cd.webp": {
+      "sourceFileId": "1YUtHIR71CZRtUsNYhU2OBgfqOSwZCL8f",
+      "crop": null
+    },
+    "shade-ab2f0fa76df881.webp": {
+      "sourceFileId": "13FWy3XFWZuGXdiuQW6XUUMVHoUJy2r0U",
+      "crop": null
+    },
+    "shade-6782675b8229c5.webp": {
+      "sourceFileId": "1hL37uKVLADhurHVIQqSLt377VMObUUHC",
+      "crop": null
+    },
+    "shade-a7584ba2428ad1.webp": {
+      "sourceFileId": "1ozIdx2jlUVchEFJ8a-eR9UhlZ7wZl4qW",
+      "crop": null
+    },
+    "shade-8a436f563d6252.webp": {
+      "sourceFileId": "1FytB_NNQCKuUia019MCz0jfTTuz0VWk6",
+      "crop": null
+    },
+    "shade-5e3b98743dc7d3.webp": {
+      "sourceFileId": "1vuCZ3cQK-wnVaiknHOS8168COM2EVoiE",
+      "crop": null
+    },
+    "shade-80af58657612c8.webp": {
+      "sourceFileId": "1PAbWq1H9uR3iujOuzmE6RXj3IjPc51-1",
+      "crop": null
+    },
+    "shade-253edfa6b43cf5.webp": {
+      "sourceFileId": "1NNdCtz0Wa1qowJbQ4yq3ZcGTenbgXvDa",
+      "crop": null
+    },
+    "shade-d854c907f2891b.webp": {
+      "sourceFileId": "1NRFI2DUSpm1etgYf-5kKp2LkIq5smcjs",
+      "crop": null
+    },
+    "shade-6765c56d2b16be.webp": {
+      "sourceFileId": "1IN7kLR0p_RdGfvt98EbtCtm43tJrmu-w",
+      "crop": null
+    },
+    "shade-2f433883adb774.webp": {
+      "sourceFileId": "1sAWdocZ_rxPL1tmevp-j4oy83W5qhSf1",
+      "crop": null
+    },
+    "shade-581ca18bf8655c.webp": {
+      "sourceFileId": "1io22OTOWlYuA5eca9na0wNvbRK3xZ99N",
+      "crop": null
+    },
+    "shade-abaac8b17d5612.webp": {
+      "sourceFileId": "10qCdwGeZp0TWbxRP2_QefDSWj1onYNqQ",
+      "crop": null
+    },
+    "shade-dba7609bd425ed.webp": {
+      "sourceFileId": "15xYxQMXIYGexKgbVXVF8wmxvckf4YQg7",
+      "crop": null
+    },
+    "shade-549b8b78b6c0e1.webp": {
+      "sourceFileId": "1anGrXU5ujnWTdpPSTfyrQsswVk2sfChR",
+      "crop": [
+        0.085,
+        0.445,
+        0.235,
+        0.52
+      ]
+    },
+    "shade-4fe6f850e5af55.webp": {
+      "sourceFileId": "1SGe3Lp1omTu9vt1AA5nrkahSNXD78CRI",
+      "crop": null
+    },
+    "shade-4b68256991d7f8.webp": {
+      "sourceFileId": "1gAg4sojsB9DF6djew5W1wpPqDq2Yl_t8",
+      "crop": null
+    },
+    "shade-3f08a928e27250.webp": {
+      "sourceFileId": "1jpcw76hOT4F5T2rpRBeGpN9O7VPWutRs",
+      "crop": null
+    },
+    "shade-712dc539b5208e.webp": {
+      "sourceFileId": "1ie1MWtN116c98C9MCfeCXW4ZI0wVraya",
+      "crop": null
+    },
+    "shade-79ab0a8fb09ed9.webp": {
+      "sourceFileId": "1ZsLrkuaf-65V70BveeFKS2R8gLiSC3mc",
+      "crop": null
+    },
+    "shade-999f13e2fd2b38.webp": {
+      "sourceFileId": "1yDF5f3b3w5LB02uQpGcyr1PGR7ZDB-_9",
+      "crop": null
+    },
+    "shade-22262ecfebcd97.webp": {
+      "sourceFileId": "1a7Eir8TNjc72tXF9ax9ovNyU_JyrK-27",
+      "crop": null
+    },
+    "shade-0066ba17cc05ab.webp": {
+      "sourceFileId": "1ghgRMhTsmBJcvFual6jP3btT1gyqFix2",
+      "crop": null
+    },
+    "shade-5fd97b18782d7b.webp": {
+      "sourceFileId": "1A5coJijrkfYkpmvKvOQZ1op0wOslIOM7",
+      "crop": null
+    },
+    "shade-88feb8aba8ca4c.webp": {
+      "sourceFileId": "150iI4uTJ4u-wiHPEtfb3dYLffG4cNTYE",
+      "crop": null
+    },
+    "shade-fe4e418c9a0c41.webp": {
+      "sourceFileId": "1y1jkUi5G7kK8z6dxC7ARMZtr4ogBog8j",
+      "crop": null
+    },
+    "shade-ee6d687d2cc07b.webp": {
+      "sourceFileId": "1stOhWmgKnBdT5PoU22L3LTyXjMVtWh9R",
+      "crop": null
+    },
+    "shade-1901d7701729e5.webp": {
+      "sourceFileId": "1jVUmTUrgbrPb2nHgciCG_Tnrbnd41SxR",
+      "crop": null
+    },
+    "shade-948114da78a86b.webp": {
+      "sourceFileId": "1HmKo30tH40AV-GmtW6u9_ojxM38zlayM",
+      "crop": null
+    },
+    "shade-46cf4e5add2af5.webp": {
+      "sourceFileId": "10nxaMAqiuBsWy140-_i_JzRMI-7hqen3",
+      "crop": null
+    },
+    "shade-00d62b2ea7f354.webp": {
+      "sourceFileId": "1joh-1J7ovzbjNwLgqNb5OSxLlgMmF-XK",
+      "crop": null
+    },
+    "shade-993f78fb48c8a4.webp": {
+      "sourceFileId": "1S07Qm-6ysDVn2axzvtm7rNCxnaEYFza3",
+      "crop": null
+    },
+    "shade-766c60ca25d44a.webp": {
+      "sourceFileId": "1IGAVNKhJDL7TRXQZyGaJg3aXQfyXYwJS",
+      "crop": null
+    },
+    "shade-f9e2d182c4a7c0.webp": {
+      "sourceFileId": "1B3-u3BYYYHzzEh6goBUBSaoXQRzjEKKc",
+      "crop": null
+    },
+    "shade-38936c27f95f0b.webp": {
+      "sourceFileId": "1FvBOJSFN-9bOv28ZqcN1mP2eLekjKxaH",
+      "crop": null
+    },
+    "shade-7b0610fc9334b3.webp": {
+      "sourceFileId": "1SGe3Lp1omTu9vt1AA5nrkahSNXD78CRI",
+      "crop": [
+        0.48,
+        0.445,
+        0.7,
+        0.525
+      ]
+    },
+    "shade-ab126bb536ae67.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.07,
+        0.315,
+        0.34,
+        0.4
+      ]
+    },
+    "shade-1e9f1b808dc87b.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.07,
+        0.405,
+        0.34,
+        0.49000000000000005
+      ]
+    },
+    "shade-aee1db035d1327.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.07,
+        0.49,
+        0.34,
+        0.575
+      ]
+    },
+    "shade-5695ea0f6a9a31.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.07,
+        0.58,
+        0.34,
+        0.6649999999999999
+      ]
+    },
+    "shade-23e03b4336e33d.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.07,
+        0.67,
+        0.34,
+        0.755
+      ]
+    },
+    "shade-06c833e2d37077.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.355,
+        0.315,
+        0.625,
+        0.4
+      ]
+    },
+    "shade-96382616fc34e4.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.355,
+        0.405,
+        0.625,
+        0.49000000000000005
+      ]
+    },
+    "shade-bda1c23d7c1743.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.355,
+        0.49,
+        0.625,
+        0.575
+      ]
+    },
+    "shade-76857052e38f54.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.355,
+        0.58,
+        0.625,
+        0.6649999999999999
+      ]
+    },
+    "shade-199dae71283384.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.355,
+        0.67,
+        0.625,
+        0.755
+      ]
+    },
+    "shade-fee7fc60796497.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.6399999999999999,
+        0.315,
+        0.9099999999999999,
+        0.4
+      ]
+    },
+    "shade-6beb6e88fc8f4c.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.6399999999999999,
+        0.42,
+        0.9099999999999999,
+        0.505
+      ]
+    },
+    "shade-122bcd9c33438c.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.6399999999999999,
+        0.525,
+        0.9099999999999999,
+        0.61
+      ]
+    },
+    "shade-7ac83a2ae1fc0e.webp": {
+      "sourceFileId": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "crop": [
+        0.6399999999999999,
+        0.63,
+        0.9099999999999999,
+        0.715
+      ]
+    },
+    "shade-97833bb0017076.webp": {
+      "sourceFileId": "1HAzFDd8rmyzIyOZP8-QvCjVca-4ff9G1",
+      "crop": null
+    },
+    "shade-3b657d31a72f47.webp": {
+      "sourceFileId": "16qIMhdL_BXgKoGu-S6gXBnW7789oRLXQ",
+      "crop": null
+    },
+    "shade-4c21aa01b45c71.webp": {
+      "sourceFileId": "1fQQV7ir7RDPJ5rNT-iFLcgv4lfM8Ah4D",
+      "crop": null
+    },
+    "shade-f7fc1c5ff7ef37.webp": {
+      "sourceFileId": "1jqK9EQ6a3XzgBLuCQGeCNOHJetMezuXa",
+      "crop": null
+    },
+    "shade-cb8b16210cd998.webp": {
+      "sourceFileId": "1ceJKiI3MgEoXmJ3GgGiquUMVAtU8hK-Y",
+      "crop": null
+    },
+    "shade-c66b6051a1090a.webp": {
+      "sourceFileId": "1XwzJuvN1qk_QaJutkcBLrkxYgs25TVfQ",
+      "crop": null
+    },
+    "shade-a22ed0e113a799.webp": {
+      "sourceFileId": "1xYhQVVDVpFiLyt-I0YDZklB-32JopKtX",
+      "crop": null
+    },
+    "shade-afc8c8614d4a04.webp": {
+      "sourceFileId": "1aWa4LvWyVbidubZgzocjNpOkFqsF9IYX",
+      "crop": null
+    },
+    "shade-8f834e52ec57b3.webp": {
+      "sourceFileId": "14uDC3E4Se1eJzK3bFigpCIZiyQiQ2_Cm",
+      "crop": null
+    },
+    "shade-168bd08340cc16.webp": {
+      "sourceFileId": "18b5x0qm_D6roehBaSqTXhkuTTT__-pMa",
+      "crop": null
+    },
+    "shade-7f203238412bbf.webp": {
+      "sourceFileId": "1TPT490-21j9A_I33CqVspSStX9EK603q",
+      "crop": null
+    },
+    "shade-84ea161b008761.webp": {
+      "sourceFileId": "1U_8NI0so_iPKzBprUjsossHk5IsfPsA7",
+      "crop": null
+    },
+    "shade-06d59fdd1a5a6b.webp": {
+      "sourceFileId": "1eGQ_AG3F-tZH0afljlT_Ba1lalqMuilr",
+      "crop": null
+    },
+    "shade-2f4eaebe1dd529.webp": {
+      "sourceFileId": "1gn1VZyWtOTJq3Db3ik-ooKWzL1y4c6xM",
+      "crop": null
+    },
+    "shade-cc6d922e44d1e6.webp": {
+      "sourceFileId": "1WvbR0Rt7O_zgLsE8-T1wr5eFGwABlRvj",
+      "crop": null
+    },
+    "shade-54b40bd710b416.webp": {
+      "sourceFileId": "1Xn1Us-jT3hqY6Hc7AMNcaWSvV4W4JDXY",
+      "crop": null
+    },
+    "shade-12413679e6af67.webp": {
+      "sourceFileId": "1PvwkW3Lz1KD_2n1noo7MC-EtvMt3dPZQ",
+      "crop": null
+    },
+    "shade-2cd7549b17a7d3.webp": {
+      "sourceFileId": "1a_BXZyfg-rBieUwZicDZUSd4PgjQmsLc",
+      "crop": null
+    },
+    "shade-f0c3242dd52967.webp": {
+      "sourceFileId": "1GtTglfgSzX0_HYI6F1vlD2s-xOb-1WxQ",
+      "crop": null
+    },
+    "shade-72141a795cdd78.webp": {
+      "sourceFileId": "1HAzFDd8rmyzIyOZP8-QvCjVca-4ff9G1",
+      "crop": [
+        0.05,
+        0.425,
+        0.267,
+        0.51
+      ]
+    },
+    "shade-560b96bf063a54.webp": {
+      "sourceFileId": "1HAzFDd8rmyzIyOZP8-QvCjVca-4ff9G1",
+      "crop": [
+        0.06,
+        0.59,
+        0.27,
+        0.67
+      ]
+    },
+    "shade-6ce9cf5b25ac47.webp": {
+      "sourceFileId": "1YnyF_wLU_dXaen7HfZVi1OCmoyr7W4Lp",
+      "crop": null
+    },
+    "shade-edbbfa05d19dec.webp": {
+      "sourceFileId": "1AnqUeMUkzYwpZcdl10s94YJguezQIP0e",
+      "crop": null
+    },
+    "shade-a68bc92e2b9b9d.webp": {
+      "sourceFileId": "1xi0T8DL8PGEVNrWSbguYjbn2TvojfIbr",
+      "crop": null
+    },
+    "shade-66d77d71c2136d.webp": {
+      "sourceFileId": "1-up3uKrb7lL7j4WAjsgUh2Ck4-nsM4QV",
+      "crop": null
+    },
+    "shade-6f438feaaad819.webp": {
+      "sourceFileId": "1RKnpy-TVwD3QWcIFMqabSlsJhlr0sk24",
+      "crop": null
+    },
+    "shade-3d8e1885fffdc0.webp": {
+      "sourceFileId": "1E7i1NSOratUvQdMY33XJeN8yaONzN-ct",
+      "crop": null
+    },
+    "shade-2ce18ba88099f5.webp": {
+      "sourceFileId": "1EJFXfiyo19qKXjLnOrbkITC2_aHqmmyr",
+      "crop": null
+    },
+    "shade-e434e27b463e08.webp": {
+      "sourceFileId": "1G0zOfckQvM95I8qiM_VoAHL0ds_-Q1Fe",
+      "crop": null
+    },
+    "shade-a86f5cda96b66a.webp": {
+      "sourceFileId": "1QSdCXda-G89Tu4ysZL2TGk7xy_P31Pcf",
+      "crop": null
+    },
+    "shade-8abcf52c41fc41.webp": {
+      "sourceFileId": "1fKpTxS7hitg2u-yC1mMuCDmWFG_qM1mu",
+      "crop": null
+    },
+    "shade-f9964da889c265.webp": {
+      "sourceFileId": "1rW8Fk7j3u5qc2IH1aVvE15a3ghAsdx2N",
+      "crop": null
+    },
+    "shade-d5c0ad3e048a8f.webp": {
+      "sourceFileId": "1wUKGRq4P8QwGUuJZ00QXexL28gh5-OK6",
+      "crop": null
+    },
+    "shade-f9cde5ca6c3fde.webp": {
+      "sourceFileId": "1W-msejcs0gM85UC_UDQw0lk-orj-UNT-",
+      "crop": null
+    },
+    "shade-ca4d6d763a3fc0.webp": {
+      "sourceFileId": "13KMydoGRMVLzTiNpkFlzyjeZhXRO___E",
+      "crop": null
+    },
+    "shade-faf80700cfe002.webp": {
+      "sourceFileId": "1E4S4XCccNb0OEYOYaH5MaQDw4AwaIXB3",
+      "crop": null
+    },
+    "shade-2b836acb33c391.webp": {
+      "sourceFileId": "170GKD8dDjXz2NQYUGRNoS85FQktPeS3s",
+      "crop": null
+    },
+    "shade-13d1aee7eee9c3.webp": {
+      "sourceFileId": "1rDEQvVjwIW3rDD87R7sBHMM7X37Srg2y",
+      "crop": null
+    },
+    "shade-2d6ab9adc6d312.webp": {
+      "sourceFileId": "1372yJvCrymgOmKJOfJtHPY1oTNYYttcS",
+      "crop": null
+    }
+  }
+}
